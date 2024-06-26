@@ -1,0 +1,766 @@
+﻿Timestamp,socmedInterest,mostUsedSocmed,Age,Gender,occupation,monthlyIncome,residence,device,internet,activeSocmed,socmedRate,picPost,vidPost,picLike,vidLike,comment,story,shareVid,"watchVidAvg
+",interactionTime
+11/23/2023 10:29:46,Yes,TikTok,18,Female,Student,0,hostel,Smartphone,Cellular Data,5,3,5,5,5,5,3,5,5,More than 5 min,12:00 p.m - 6:00 p.m
+11/23/2023 10:32:09,Yes,TikTok,21,Male,Student,0,hostel,Smartphone,Cellular Data,4,3,1,1,3,3,4,2,5,Less than 5 min,6:00 p.m - 12:00 a.m
+11/23/2023 10:35:38,Yes,TikTok,18,Female,Student,0,hostel,Smartphone,Cellular Data,5,4,3,1,5,2,4,3,5,Less than 5 min,12:00 p.m - 6:00 p.m
+11/23/2023 10:39:32,Yes,TikTok,21,Female,Student,0,hostel,Smartphone,Wifi,4,3,2,2,4,4,2,3,3,Less than 5 min,12:00 p.m - 6:00 p.m
+11/23/2023 10:57:31,Yes,TikTok,21,Male,Student,0,hostel,Smartphone,Cellular Data,4,4,1,1,5,5,1,2,2,More than 5 min,12:00 p.m - 6:00 p.m
+11/23/2023 10:57:49,Yes,TikTok,18,Female,Student,0,hostel,Smartphone,Cellular Data,5,5,3,2,4,4,2,3,2,More than 5 min,6:00 p.m - 12:00 a.m
+11/23/2023 11:05:13,Yes,Instagram,19,Female,Student,0,hostel,Smartphone,Wifi,4,3,1,1,5,5,1,5,5,Less than 5 min,12:00 p.m - 6:00 p.m
+11/23/2023 11:15:11,Yes,Instagram,21,Male,Student,0,Hostel,Smartphone,Wifi,5,5,1,1,4,3,1,2,1,More than 5 min,12:00 p.m - 6:00 p.m
+11/23/2023 11:40:13,Yes,Twitter,23,Male,Student,0,hostel,Smartphone,Wifi,4,1,1,1,5,5,2,2,5,Less than 5 min,12:00 p.m - 6:00 p.m
+11/23/2023 12:38:05,Yes,TikTok,70,Male,Unemployee,100000-300000,Kiamsam,Smartphone,Wifi jiran,5,5,3,3,1,1,1,1,1,More than 5 min,12:00 p.m - 6:00 p.m
+11/23/2023 12:39:13,Yes,TikTok,20,Female,Student,0,hostel,Smartphone,Cellular Data,5,3,4,2,3,3,1,5,5,More than 5 min,6:00 p.m - 12:00 a.m
+11/23/2023 12:42:04,Yes,TikTok,20,Female,Student,0,Hostel,Smartphone,Cellular Data,4,5,2,1,4,5,1,4,3,More than 5 min,6:00 a.m - 12:00 p.m
+11/23/2023 12:42:13,Yes,TikTok,20,Male,Employee,300000000,Labuan point,Smart tv,Wifi jiran,5,5,5,1,2,3,5,1,3,Less than 5 min,6:00 a.m - 12:00 p.m
+11/23/2023 12:47:01,Yes,TikTok,20,Female,Student,0,hostel,Smartphone,Wifi,4,4,3,2,5,5,3,4,4,Less than 5 min,6:00 p.m - 12:00 a.m
+11/23/2023 13:03:06,Yes,TikTok,24,Male,Student,student but my income around 3-4k ,rental house,Smartphone,Wifi,5,5,1,1,3,3,1,1,1,More than 5 min,12:00 p.m - 6:00 p.m
+11/23/2023 13:14:56,Yes,TikTok,18,Female,Student,0,hostel,Smartphone,Cellular Data,3,4,2,2,2,2,1,3,2,More than 5 min,6:00 p.m - 12:00 a.m
+11/23/2023 13:38:53,Yes,Instagram,21,Female,Student,0,Hostel,Smartphone,Cellular Data,3,3,1,1,4,4,2,4,5,Less than 5 min,6:00 p.m - 12:00 a.m
+11/23/2023 16:35:26,Yes,Whatsapp,20,Female,Student,0,Hostel,Smartphone,Wifi,3,4,2,1,4,4,1,2,3,Less than 5 min,6:00 p.m - 12:00 a.m
+11/24/2023 20:20:27,Yes,TikTok,18,Female,Student,0,college,Smartphone,Cellular Data,5,4,4,4,5,5,3,5,5,More than 5 min,12:00 p.m - 6:00 p.m
+11/24/2023 20:21:52,Yes,Twitter,20,Male,Student,0,Hostel,Smartphone,Wifi,5,3,4,2,5,5,2,5,4,Less than 5 min,6:00 p.m - 12:00 a.m
+11/24/2023 20:22:32,Yes,Instagram,22,Male,Student,0,Hostel,Smartphone,Wifi,5,4,2,2,3,4,2,4,5,More than 5 min,12:00 p.m - 6:00 p.m
+11/24/2023 20:24:11,Yes,Instagram,18,Male,Student,100,hostel,Smartphone,Cellular Data,4,4,3,3,2,2,2,3,3,Less than 5 min,6:00 p.m - 12:00 a.m
+11/24/2023 20:25:05,Yes,Whatsapp,19,Male,Student,0,hostel,Smartphone,Wifi,5,5,2,1,5,5,2,4,5,More than 5 min,12:00 p.m - 6:00 p.m
+11/24/2023 20:28:09,No,Instagram,19,Male,Student,0,hostel,Smartphone,Cellular Data,3,2,2,2,2,3,3,4,2,More than 5 min,12:00 p.m - 6:00 p.m
+11/24/2023 20:28:43,Yes,Whatsapp,24,Male,Student,0,rental,Smartphone,Wifi,3,4,2,1,2,2,2,2,2,More than 5 min,6:00 p.m - 12:00 a.m
+11/24/2023 20:30:05,Yes,TikTok,18,Male,Student,0,hostel,Smartphone,Wifi,4,4,3,3,3,3,3,3,4,Less than 5 min,6:00 a.m - 12:00 p.m
+11/24/2023 20:32:18,Yes,Instagram,18,Male,Student,50,house,Smartphone,Cellular Data,4,5,2,1,5,5,2,5,3,Less than 5 min,6:00 p.m - 12:00 a.m
+11/24/2023 20:39:23,Yes,TikTok,22 years old,Male,Unemployee,0,House,Smartphone,Wifi,5,3,3,2,3,3,5,3,5,More than 5 min,6:00 a.m - 12:00 p.m
+11/24/2023 20:43:35,Yes,TikTok,22,Female,Student,0,hostel,Smartphone,Cellular Data,5,4,2,2,4,5,1,2,3,Less than 5 min,12:00 a.m - 6:00 a.m
+11/24/2023 20:43:35,Yes,Instagram,20,Male,Student,0,house,Smartphone,Cellular Data,5,4,3,3,4,3,3,3,3,Less than 5 min,12:00 p.m - 6:00 p.m
+11/24/2023 20:44:49,Yes,Instagram,22,Female,Student,0,Hostel,Smartphone,Cellular Data,4,4,2,2,3,3,2,3,5,Less than 5 min,6:00 p.m - 12:00 a.m
+11/24/2023 20:44:59,Yes,Facebook ,22,Male,Employee,2600,House,Smartphone,Wifi,4,3,1,1,1,1,1,1,3,Less than 5 min,12:00 a.m - 6:00 a.m
+11/24/2023 20:46:33,Yes,Whatsapp,22,Male,Unemployee,0,Rental house,Smartphone,Wifi,5,5,1,3,5,5,5,3,5,More than 5 min,12:00 p.m - 6:00 p.m
+11/24/2023 20:48:22,Yes,TikTok,21,Female,Student,0,hostel,Smartphone,Wifi,3,3,3,3,3,3,3,3,3,More than 5 min,12:00 p.m - 6:00 p.m
+11/24/2023 20:53:04,Yes,Whatsapp,21,Male,Student,0,House,Smartphone,Wifi,4,3,3,2,2,3,1,3,2,Less than 5 min,6:00 p.m - 12:00 a.m
+11/24/2023 20:54:08,Yes,TikTok,21,Male,Employee,1.5k,House,Smartphone,Wifi,4,4,2,2,3,4,3,2,4,Less than 5 min,6:00 a.m - 12:00 p.m
+11/24/2023 20:55:47,Yes,Whatsapp,25,Male,Student,0,hostel,Smartphone,Wifi,3,3,2,2,5,5,1,2,2,Less than 5 min,12:00 p.m - 6:00 p.m
+11/24/2023 21:02:42,Yes,TikTok,22,Female,Student,0,Hostel,Smartphone,Cellular Data,4,4,3,3,4,3,2,3,2,Less than 5 min,6:00 a.m - 12:00 p.m
+11/24/2023 21:11:41,Yes,Whatsapp,21,Female,Student,0,Hostel,Smartphone,Cellular Data,4,4,2,2,5,5,3,4,4,More than 5 min,6:00 p.m - 12:00 a.m
+11/24/2023 21:12:45,Yes,TikTok,24,Male,Student,1800,Rental house,Smartphone,Wifi,4,5,3,2,4,4,3,2,2,Less than 5 min,12:00 p.m - 6:00 p.m
+11/24/2023 21:16:30,Yes,TikTok,22,Female,Student,0,house,Smartphone,Wifi,4,3,2,2,4,4,3,1,3,More than 5 min,12:00 p.m - 6:00 p.m
+11/24/2023 21:16:34,Yes,Whatsapp,20,Female,Student,0,Selangor,Smartphone,Wifi Jiran,1,1,1,1,1,1,1,1,1,More than 5 min,12:00 a.m - 6:00 a.m
+11/24/2023 21:17:35,Yes,Whatsapp,22,Male,Student,0,Rental house,Smartphone,Cellular Data,5,3,1,1,3,3,1,1,1,More than 5 min,6:00 p.m - 12:00 a.m
+11/24/2023 21:19:08,Yes,Instagram,22,Male,Student,0,Hostel,Smartphone,Cellular Data,5,5,3,3,4,4,2,4,5,More than 5 min,12:00 p.m - 6:00 p.m
+11/24/2023 21:38:03,Yes,Whatsapp,22,Female,Student,0,Hostel,Smartphone,Cellular Data,5,5,3,3,4,4,3,3,3,Less than 5 min,6:00 p.m - 12:00 a.m
+11/24/2023 21:46:31,Yes,TikTok,21,Female,Student,0,house,Smartphone,Cellular Data,4,4,1,3,2,2,1,3,5,Less than 5 min,12:00 a.m - 6:00 a.m
+11/24/2023 21:50:00,Yes,TikTok,22,Female,Student,0,Hostel,Smartphone,Wifi,4,3,3,2,4,4,2,3,3,Less than 5 min,12:00 p.m - 6:00 p.m
+11/24/2023 22:01:35,Yes,TikTok,21,Female,Employee,Rm 1500,House,Smartphone,Cellular Data,5,4,3,2,4,4,2,4,2,More than 5 min,12:00 p.m - 6:00 p.m
+11/24/2023 22:57:14,Yes,TikTok,22,Female,Employee,2200,House,Smartphone,Wifi,4,3,4,2,4,5,1,5,4,Less than 5 min,12:00 p.m - 6:00 p.m
+11/24/2023 23:53:37,No,TikTok,22,Female,Student,0,Hostel,Smartphone,Cellular Data,2,4,2,1,1,3,1,1,3,Less than 5 min,12:00 a.m - 6:00 a.m
+11/24/2023 23:55:14,Yes,TikTok,22,Female,Student,0,Hostel,Smartphone,Cellular Data,5,5,3,2,5,5,5,5,5,More than 5 min,12:00 p.m - 6:00 p.m
+11/25/2023 0:25:28,Yes,TikTok,22,Female,Student,0,Rental,Smartphone,Cellular Data,5,4,2,2,3,3,1,2,1,More than 5 min,12:00 p.m - 6:00 p.m
+11/25/2023 0:30:41,Yes,Whatsapp,22,Male,Student,0,hostel,Smartphone,Cellular Data,4,4,2,1,4,4,1,2,2,More than 5 min,12:00 p.m - 6:00 p.m
+11/25/2023 0:34:36,Yes,Twitter,16,Female,Student,2500,taman selasih,Smartphone,Wifi Jiran,5,5,2,2,5,5,3,3,3,Less than 5 min,6:00 p.m - 12:00 a.m
+11/25/2023 1:01:59,Yes,Whatsapp,22,Male,Unemployee,0,Rental house,Laptop,Wifi,2,1,1,1,3,3,2,1,1,More than 5 min,12:00 a.m - 6:00 a.m
+11/25/2023 1:22:44,Yes,Instagram,25,Male,Student,0,college,Smartphone,Cellular Data,3,3,2,2,4,4,3,3,3,Less than 5 min,6:00 p.m - 12:00 a.m
+11/25/2023 2:02:56,Yes,TikTok,22 years old! Still young and beautiful *wink,Female,Student,0,Rental house,Smartphone,Wifi,3,4,3,2,2,2,3,3,5,More than 5 min,6:00 p.m - 12:00 a.m
+11/25/2023 2:12:25,No,Instagram,22,Male,Employee,2500,Cameron,Smartphone,Cellular Data,3,3,2,1,5,5,3,4,3,Less than 5 min,6:00 a.m - 12:00 p.m
+11/25/2023 2:14:16,Yes,Whatsapp,22,Male,Student,0,Rental house,Both option,Wifi,2,3,2,2,3,3,2,1,4,More than 5 min,12:00 p.m - 6:00 p.m
+11/25/2023 3:22:15,No,Instagram,23,Male,Student,500,House,Smartphone,Wifi,5,1,2,1,4,1,3,2,1,Less than 5 min,12:00 p.m - 6:00 p.m
+11/25/2023 4:11:25,Yes,Instagram,22,Male,Student,0,House ,Smartphone,Wifi,5,2,2,1,3,2,1,1,1,More than 5 min,12:00 p.m - 6:00 p.m
+11/25/2023 4:16:20,Yes,TikTok,22,Male,Student,0,Home,Smartphone,Wifi,4,4,2,2,2,2,2,2,2,More than 5 min,6:00 p.m - 12:00 a.m
+11/25/2023 7:39:23,Yes,TikTok,22,Male,Employee,1900,parent’s house,Smartphone,Wifi,4,4,2,2,3,4,2,2,4,Less than 5 min,6:00 a.m - 12:00 p.m
+11/25/2023 8:47:33,Yes,TikTok,20,Male,Student,800,home,Smartphone,Wifi,4,3,1,1,2,2,2,2,2,More than 5 min,12:00 a.m - 6:00 a.m
+11/25/2023 9:38:15,Yes,TikTok,21,Male,Student,0,Hostel,Smartphone,Cellular Data,3,3,2,2,4,4,1,4,3,More than 5 min,6:00 p.m - 12:00 a.m
+11/25/2023 9:42:50,Yes,TikTok,21,Female,Student,0,House,Smartphone,Wifi,5,5,4,4,5,3,2,4,2,More than 5 min,6:00 a.m - 12:00 p.m
+11/25/2023 11:02:25,Yes,TikTok,22,Female,Student,0,Hostel,Smartphone,Wifi,4,3,3,3,2,2,1,3,3,Less than 5 min,6:00 p.m - 12:00 a.m
+11/25/2023 12:07:23,Yes,Instagram,23,Male,Student,0,Hostel,Smartphone,Cellular Data,5,4,2,2,5,5,2,3,5,More than 5 min,6:00 p.m - 12:00 a.m
+11/27/2023 5:19:44,Yes,Whatsapp,49 tahun,Female  --  Perempuan,Employee  -- Bekerja,"RM2,000",Rumah sendiri,Smartphone -- Telefon Pintar,WiFi,5,5,3,3,4,3,5,3,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 5:52:17,Yes,Whatsapp,23,Female  --  Perempuan,Employee  -- Bekerja,1800,House,Smartphone -- Telefon Pintar,Cellular Data,4,2,3,3,4,4,3,2,3,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 5:54:40,Yes,TikTok,39,Male  -- Lelaki,Employee  -- Bekerja,1000 ke atas,Rumah,Smartphone -- Telefon Pintar,Cellular Data,4,4,2,2,4,2,4,1,4,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 6:01:36,Yes,Semua sekali,47,Female  --  Perempuan,Unemployee  -- Tidak Bekerja,0,RUMAH SENDIRI,Smartphone -- Telefon Pintar,WiFi,3,3,2,1,3,3,3,1,1,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 6:04:21,Yes,Whatsapp,62,Male  -- Lelaki,Unemployee  -- Tidak Bekerja,Rm500,Rumah sendiri,Smartphone -- Telefon Pintar,Cellular Data,3,5,4,3,4,4,3,3,3,Less than 5 min  -- Kurang daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 6:08:43,Yes,Whatsapp,62,Male  -- Lelaki,Unemployee  -- Tidak Bekerja,500,Sendiri,Smartphone -- Telefon Pintar,WiFi,5,5,4,4,4,4,5,4,4,More than 5 min  -- Lebih daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 6:12:18,Yes,Whatsapp,50,Female  --  Perempuan,Employee  -- Bekerja,"RM2,000",Rumah sewa,Smartphone -- Telefon Pintar,Cellular Data,4,4,3,2,4,4,2,2,3,More than 5 min  -- Lebih daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 6:31:42,Yes,Whatsapp,33,Female  --  Perempuan,Unemployee  -- Tidak Bekerja,0,W.P Labuan,Smartphone -- Telefon Pintar,Cellular Data,3,3,2,2,3,3,3,3,2,Less than 5 min  -- Kurang daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 6:40:04,Yes,Whatsapp,54 tahun,Female  --  Perempuan,Employee  -- Bekerja,3000,Sewa,Smartphone -- Telefon Pintar,WiFi,5,5,5,5,5,5,5,5,5,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 6:53:03,Yes,Whatsapp,49,Female  --  Perempuan,Unemployee  -- Tidak Bekerja,0,Rumah kampung,Smartphone -- Telefon Pintar,WiFi,3,3,1,1,2,2,2,2,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 6:58:20,Yes,facebook,34,Female  --  Perempuan,Employee  -- Bekerja,3053,rumah keluarga,Smartphone -- Telefon Pintar,Cellular Data,4,4,2,3,2,2,2,2,4,More than 5 min  -- Lebih daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 6:58:33,Yes,Whatsapp,43,Male  -- Lelaki,Employee  -- Bekerja,4000,Rumah,Smartphone -- Telefon Pintar,Cellular Data,3,3,2,2,3,3,2,2,2,Less than 5 min  -- Kurang daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 6:59:35,Yes,Facebook,52,Male  -- Lelaki,Employee  -- Bekerja,5000,sendiri,Smartphone -- Telefon Pintar,Cellular Data,4,3,4,2,3,3,3,3,2,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 7:07:03,Yes,Whatsapp,33,Female  --  Perempuan,Employee  -- Bekerja,1500,RUMAH,Smartphone -- Telefon Pintar,Cellular Data,3,3,3,3,3,3,3,3,3,Less than 5 min  -- Kurang daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 7:08:40,Yes,Whatsapp,45,Female  --  Perempuan,Unemployee  -- Tidak Bekerja,0,Sewa,Smartphone -- Telefon Pintar,Cellular Data,5,5,3,2,2,2,2,2,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 7:10:06,Yes,Whatsapp,28,Male  -- Lelaki,Employee  -- Bekerja,2300,rumah sewa,Smartphone -- Telefon Pintar,Cellular Data,4,4,2,3,2,3,2,2,3,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 7:13:02,Yes,TikTok,29,Male  -- Lelaki,Employee  -- Bekerja,2000,Rumah sendiri,Smartphone -- Telefon Pintar,WiFi,5,4,1,3,4,4,3,4,4,More than 5 min  -- Lebih daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 7:26:07,Yes,Instagram,37,Female  --  Perempuan,Unemployee  -- Tidak Bekerja,1000,Rumah sendiri,Smartphone -- Telefon Pintar,Cellular Data,4,4,3,3,3,3,2,2,2,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 7:28:17,Yes,Whatsapp,26,Male  -- Lelaki,Employee  -- Bekerja,1500,Rumah,Smartphone -- Telefon Pintar,WiFi,2,5,2,2,2,2,1,1,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 7:34:23,Yes,Whatsapp,37,Male  -- Lelaki,Employee  -- Bekerja,1000,Rumah sendiri,Smartphone -- Telefon Pintar,Cellular Data,4,4,2,2,2,2,2,3,3,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 7:36:36,Yes,Whatsapp,51,Male  -- Lelaki,Employee  -- Bekerja,2000,Rumah kampung,Laptop -- Komputer Riba,WiFi,2,2,2,2,2,2,2,1,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 7:48:57,Yes,Whatsapp,28,Male  -- Lelaki,Employee  -- Bekerja,3200,Rental house,Smartphone -- Telefon Pintar,Cellular Data,4,3,2,2,2,2,3,2,3,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 8:02:35,Yes,Whatsapp,31,Female  --  Perempuan,Unemployee  -- Tidak Bekerja,0,rumah ibu bapa,Smartphone -- Telefon Pintar,Cellular Data,3,3,2,2,3,3,2,1,3,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 8:04:09,Yes,Whatsapp,34,Female  --  Perempuan,Employee  -- Bekerja,"RM1,500",Rumah Sewa,Smartphone -- Telefon Pintar,Cellular Data,4,3,3,2,3,3,2,2,2,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 8:28:43,Yes,Whatsapp,58thn,Male  -- Lelaki,Employee  -- Bekerja,Rm6000,Rmh sendiri,Smartphone -- Telefon Pintar,Cellular Data,5,5,4,4,4,4,3,4,3,Less than 5 min  -- Kurang daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 9:00:59,Yes,Whatsapp,31,Female  --  Perempuan,Unemployee  -- Tidak Bekerja,0,Rental house,Smartphone -- Telefon Pintar,WiFi,4,3,3,3,3,3,3,3,3,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 9:34:47,Yes,Whatsapp,36,Male  -- Lelaki,Employee  -- Bekerja,0,rumah,Smartphone -- Telefon Pintar,WiFi,3,4,3,2,3,3,2,2,3,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 9:58:14,Yes,Whatsapp,50,Male  -- Lelaki,Employee  -- Bekerja,5700,kg sg bedaun labuan,Smartphone -- Telefon Pintar,Cellular Data,4,4,2,2,3,3,3,2,3,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 12:39:08,Yes,TikTok,63,Male  -- Lelaki,Unemployee  -- Tidak Bekerja,"5,000.00",Sendiri,Smartphone -- Telefon Pintar,WiFi,5,4,3,2,4,4,5,3,3,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 12:49:51,Yes,Whatsapp,51,Male  -- Lelaki,Employee  -- Bekerja,1500,Dll,Laptop -- Komputer Riba,WiFi,2,3,2,2,2,2,2,2,2,More than 5 min  -- Lebih daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 12:51:32,Yes,Whatsapp,45,Female  --  Perempuan,Unemployee  -- Tidak Bekerja,0,Dll,Smartphone -- Telefon Pintar,WiFi,3,3,1,1,2,2,2,2,1,Less than 5 min  -- Kurang daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 12:52:39,Yes,Whatsapp,52,Female  --  Perempuan,Employee  -- Bekerja,10k,Rumah sendiri,Smartphone -- Telefon Pintar,WiFi,4,4,3,2,3,4,3,2,3,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 12:57:16,Yes,Whatsapp,57,Male  -- Lelaki,Employee  -- Bekerja,5k ,rumah sendiri,Smartphone -- Telefon Pintar,WiFi,5,4,3,3,3,3,3,3,3,More than 5 min  -- Lebih daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 13:06:02,Yes,Whatsapp,60,Male  -- Lelaki,Unemployee  -- Tidak Bekerja,"RM3,500.00",Rumah sendiri,Smartphone -- Telefon Pintar,WiFi,4,4,2,3,4,4,2,2,3,More than 5 min  -- Lebih daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 13:30:07,Yes,Whatsapp,66,Male  -- Lelaki,Unemployee  -- Tidak Bekerja,Pesara,Rumah sendiri,Smartphone -- Telefon Pintar,Cellular Data,5,5,3,2,4,4,3,2,3,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 13:54:45,Yes,Whatsapp,52 tahun,Male  -- Lelaki,Employee  -- Bekerja,"RM4,500",Rumah,Smartphone -- Telefon Pintar,WiFi,4,4,2,2,2,3,2,2,2,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 13:59:38,Yes,Whatsapp/telegram/fb,56,Male  -- Lelaki,Employee  -- Bekerja,"Rm10.000,00",Rumah,Smartphone -- Telefon Pintar,WiFi,3,4,2,2,3,3,2,2,3,Less than 5 min  -- Kurang daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 14:01:07,Yes,Youtube,14,Female  --  Perempuan,Student  -- Pelajar,0,Rumah saya,Smartphone -- Telefon Pintar,Cellular Data,3,4,1,1,3,5,2,3,3,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 14:02:44,Yes,Whatsapp,36,Male  -- Lelaki,Employee  -- Bekerja,5000,Rumah sewa,Smartphone -- Telefon Pintar,Cellular Data,3,3,3,3,3,3,3,3,3,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 14:07:51,No,Whatsapp,14,Female  --  Perempuan,Student  -- Pelajar,0,Lain-lain,Smartphone -- Telefon Pintar,WiFi,2,2,3,2,4,2,2,3,2,Less than 5 min  -- Kurang daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 14:09:58,Yes,Instagram,28,Male  -- Lelaki,Employee  -- Bekerja,Tidak tetap,Labuan,Smartphone -- Telefon Pintar,WiFi,5,5,3,3,3,3,3,3,3,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 14:13:32,Yes,Whatsapp,13,Male  -- Lelaki,Student  -- Pelajar,0,Rumah,"Teblet, smartphone",Cellular Data,2,4,2,2,2,3,4,4,3,Less than 5 min  -- Kurang daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 14:21:27,Yes,TikTok,15,Female  --  Perempuan,Student  -- Pelajar,0,rumah sewa,Smartphone -- Telefon Pintar,Cellular Data,5,5,2,2,4,5,2,3,3,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 14:29:19,Yes,Facebook,26,Female  --  Perempuan,Employee  -- Bekerja,RM2.5k+,House,Desktop computer,WiFi,4,4,3,2,5,5,3,3,5,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 14:30:14,Yes,Whatsapp,13,Female  --  Perempuan,Student  -- Pelajar,0,rumah,Smartphone -- Telefon Pintar,Cellular Data,4,4,1,1,2,2,2,1,1,More than 5 min  -- Lebih daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 14:35:48,Yes,TikTok,15,Female  --  Perempuan,Student  -- Pelajar,0,Rumah,Smartphone -- Telefon Pintar,Cellular Data,4,4,2,2,3,3,1,2,3,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 14:41:31,Yes,TikTok,14,Female  --  Perempuan,Student  -- Pelajar,0,Rumah sendiri ,Smartphone -- Telefon Pintar,WiFi,3,4,3,4,3,3,2,3,3,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 14:41:40,Yes,Whatsapp,34,Male  -- Lelaki,Employee  -- Bekerja,Rm5000,Rumah sendiri,Smartphone -- Telefon Pintar,Cellular Data,4,4,2,2,2,2,2,2,2,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 14:41:56,Yes,Whatsapp,33,Female  --  Perempuan,Employee  -- Bekerja,3500,Rumah sewa,Smartphone -- Telefon Pintar,Cellular Data,2,4,2,2,4,4,4,2,2,More than 5 min  -- Lebih daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 14:59:46,Yes,Whatsapp,60,Male  -- Lelaki,Unemployee  -- Tidak Bekerja,"RM6,000",Rumah semdiri,Smartphone -- Telefon Pintar,Cellular Data,4,5,2,2,5,5,4,2,3,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 15:00:06,Yes,TikTok,13,Female  --  Perempuan,Student  -- Pelajar,0,Rumah sewa,Smartphone -- Telefon Pintar,Cellular Data,5,4,2,2,2,2,1,4,1,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 15:29:11,No,TikTok,13 tahun,Female  --  Perempuan,Student  -- Pelajar,0,Rumah sendiri,Smartphone -- Telefon Pintar,WiFi,1,3,2,2,1,1,1,1,2,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 15:55:13,Yes,TikTok,15,Male  -- Lelaki,Employee  -- Bekerja,0,rumah,Smartphone -- Telefon Pintar,WiFi,1,1,2,2,2,2,2,2,1,More than 5 min  -- Lebih daripada 5 minit,12:00 a.m - 6:00 a.m
+11/27/2023 16:13:57,Yes,TikTok,39,Female  --  Perempuan,Employee  -- Bekerja,"RM6,500",Kuarters,Smartphone -- Telefon Pintar,Cellular Data,5,5,4,4,4,4,3,4,3,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 16:18:37,Yes,Youtube and Chrome,16 years old,Female  --  Perempuan,Student  -- Pelajar,0,Rental house,Smartphone -- Telefon Pintar,WiFi,4,3,1,1,3,3,1,1,2,More than 5 min  -- Lebih daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 16:31:54,Yes,Whatsapp,21,Male  -- Lelaki,Student  -- Pelajar,0,Hostel,Smartphone -- Telefon Pintar,Cellular Data,4,4,2,2,3,4,1,2,2,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 16:32:10,Yes,Instagram,21,Female  --  Perempuan,Student  -- Pelajar,0,asrama,Smartphone -- Telefon Pintar,Cellular Data,4,5,3,2,3,3,3,3,3,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 16:32:30,Yes,TikTok,23,Female  --  Perempuan,Student  -- Pelajar,0,rental house,Smartphone -- Telefon Pintar,WiFi,3,4,2,2,4,4,2,2,3,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 16:33:19,Yes,Instagram,26,Female  --  Perempuan,Unemployee  -- Tidak Bekerja,0,Family house,Smartphone -- Telefon Pintar,WiFi,5,4,2,2,2,2,2,2,2,Less than 5 min  -- Kurang daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 16:34:13,No,Whatsapp,44,Female  --  Perempuan,Employee  -- Bekerja,"RM6,000",Rumah,Smartphone -- Telefon Pintar,Cellular Data,3,4,2,2,3,3,1,2,2,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 16:34:22,Yes,Twitter,23,Female  --  Perempuan,Student  -- Pelajar,0,Home,Smartphone -- Telefon Pintar,Cellular Data,5,4,2,1,2,2,1,2,1,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 16:34:36,Yes,Whatsapp,22,Male  -- Lelaki,Student  -- Pelajar,0,Rumah Sewa,Smartphone -- Telefon Pintar,WiFi,4,4,3,2,4,5,2,3,4,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 16:35:55,Yes,TikTok,18,Female  --  Perempuan,Student  -- Pelajar,0,hostel,Smartphone -- Telefon Pintar,WiFi,4,4,3,2,4,4,1,4,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 16:36:11,Yes,TikTok,22,Female  --  Perempuan,Student  -- Pelajar,0,Rental house,Smartphone -- Telefon Pintar,Cellular Data,4,3,2,2,3,3,2,3,3,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 16:36:24,Yes,Whatsapp,22,Female  --  Perempuan,Student  -- Pelajar,0,rumah,Smartphone -- Telefon Pintar,Cellular Data,3,4,2,3,4,4,2,1,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 16:38:32,Yes,TikTok,18,Female  --  Perempuan,Student  -- Pelajar,0,Kolej,Smartphone -- Telefon Pintar,WiFi,4,4,2,1,4,4,2,1,5,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 16:43:23,Yes,TikTok,18,Female  --  Perempuan,Student  -- Pelajar,0,asrama,Smartphone -- Telefon Pintar,Cellular Data,5,4,3,3,4,5,2,3,3,Less than 5 min  -- Kurang daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 16:46:36,Yes,Whatsapp,20,Male  -- Lelaki,Student  -- Pelajar,0,Asrama,Smartphone -- Telefon Pintar,Cellular Data,3,3,2,2,2,2,2,2,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 16:46:42,Yes,Twitter,23,Female  --  Perempuan,Student  -- Pelajar,0,rumah mak,Smartphone -- Telefon Pintar,WiFi,5,5,3,4,5,5,3,3,2,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 16:50:52,Yes,Reddit,34,Male  -- Lelaki,Employee  -- Bekerja,7000,Rumah sewa,Smartphone -- Telefon Pintar,WiFi,4,4,2,2,3,3,2,2,2,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 16:51:57,Yes,TikTok,33,Female  --  Perempuan,Unemployee  -- Tidak Bekerja,0,Kuarters,Smartphone -- Telefon Pintar,Cellular Data,4,4,4,3,3,3,3,3,3,Less than 5 min  -- Kurang daripada 5 minit,12:00 a.m - 6:00 a.m
+11/27/2023 16:52:33,Yes,Whatsapp,43,Female  --  Perempuan,Employee  -- Bekerja,5000,rumah sendiri,Smartphone -- Telefon Pintar,WiFi,3,3,1,1,4,4,1,1,2,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 16:55:00,Yes,TikTok,19,Male  -- Lelaki,Student  -- Pelajar,0,asrama,Smartphone -- Telefon Pintar,Cellular Data,5,4,3,2,4,4,3,3,3,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 16:55:59,Yes,TikTok,20,Female  --  Perempuan,Student  -- Pelajar,800,own house,Smartphone -- Telefon Pintar,WiFi,3,2,3,3,3,5,2,2,5,More than 5 min  -- Lebih daripada 5 minit,12:00 a.m - 6:00 a.m
+11/27/2023 16:56:09,Yes,TikTok,14,Female  --  Perempuan,Student  -- Pelajar,0,Rumah,Smartphone -- Telefon Pintar,Cellular Data,5,5,2,2,2,5,1,1,1,More than 5 min  -- Lebih daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 16:58:00,Yes,Instagram,23,Female  --  Perempuan,Student  -- Pelajar,0,rumah sewa,Smartphone -- Telefon Pintar,Cellular Data,5,4,3,2,3,3,2,1,4,More than 5 min  -- Lebih daripada 5 minit,12:00 a.m - 6:00 a.m
+11/27/2023 17:00:58,Yes,TikTok,15,Female  --  Perempuan,Student  -- Pelajar,0,rumah sewa ,Smartphone -- Telefon Pintar,WiFi,4,3,2,2,3,3,1,1,1,Less than 5 min  -- Kurang daripada 5 minit,12:00 a.m - 6:00 a.m
+11/27/2023 17:05:43,Yes,Whatsapp,45,Female  --  Perempuan,Unemployee  -- Tidak Bekerja,0,Rental flat,Smartphone -- Telefon Pintar,WiFi,5,4,3,3,4,5,2,2,3,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 17:09:22,Yes,Twitter,22,Female  --  Perempuan,Student  -- Pelajar,0,parents' house,Smartphone -- Telefon Pintar,WiFi,4,4,1,1,2,4,1,2,1,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 17:26:46,No,Whatsapp,29,Male  -- Lelaki,Employee  -- Bekerja,3600,Rental house,Smartphone -- Telefon Pintar,WiFi,1,1,1,1,1,1,1,1,1,More than 5 min  -- Lebih daripada 5 minit,12:00 a.m - 6:00 a.m
+11/27/2023 17:30:25,Yes,TikTok,18,Female  --  Perempuan,Student  -- Pelajar,0,Hostel,Smartphone -- Telefon Pintar,Cellular Data,5,4,3,2,5,5,3,3,3,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 17:30:57,Yes,Instagram,23,Female  --  Perempuan,Student  -- Pelajar,0,Home,Smartphone -- Telefon Pintar,WiFi,5,5,2,2,5,4,2,4,3,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 17:31:32,Yes,TikTok,21,Female  --  Perempuan,Student  -- Pelajar,0,Rental house,Smartphone -- Telefon Pintar,Cellular Data,5,4,2,2,3,4,2,2,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 17:46:57,Yes,Whatsapp,47,Female  --  Perempuan,Unemployee  -- Tidak Bekerja,0,rumah,Smartphone -- Telefon Pintar,Cellular Data,5,4,2,2,3,3,3,2,2,More than 5 min  -- Lebih daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 17:50:36,Yes,Whatsapp,23,Female  --  Perempuan,Employee  -- Bekerja,2000,rumah sewa,Smartphone -- Telefon Pintar,Cellular Data,4,3,2,2,4,4,2,3,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 17:57:21,Yes,Whatsapp,15,Female  --  Perempuan,Student  -- Pelajar,0,Rumah sewa,Smartphone -- Telefon Pintar,Cellular Data,4,4,3,2,2,2,2,2,2,Less than 5 min  -- Kurang daripada 5 minit,12:00 a.m - 6:00 a.m
+11/27/2023 17:58:11,Yes,TikTok,19,Female  --  Perempuan,Student  -- Pelajar,0,Asrama,Smartphone -- Telefon Pintar,WiFi,2,3,1,1,3,3,2,1,3,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 18:04:11,Yes,TikTok,19,Male  -- Lelaki,Student  -- Pelajar,0,Hostel,Smartphone -- Telefon Pintar,Cellular Data,4,3,2,3,2,3,1,2,3,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 18:06:22,Yes,Instagram,38,Female  --  Perempuan,Student  -- Pelajar,10000,Rumah ,Smartphone -- Telefon Pintar,WiFi,5,4,2,1,2,2,1,1,1,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 18:11:15,Yes,Whatsapp,31,Female  --  Perempuan,Employee  -- Bekerja,5000,Rumah,Smartphone -- Telefon Pintar,Cellular Data,5,5,3,3,5,5,3,5,5,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 18:13:59,Yes,Whatsapp,32,Female  --  Perempuan,Unemployee  -- Tidak Bekerja,0,Cond,Smartphone -- Telefon Pintar,WiFi,4,5,2,1,4,3,3,3,2,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 18:17:26,Yes,Instagram,19,Female  --  Perempuan,Student  -- Pelajar,0,Hostel,Smartphone -- Telefon Pintar,Cellular Data,5,5,5,3,5,5,5,1,5,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 18:19:11,Yes,Twitter,18,Female  --  Perempuan,Student  -- Pelajar,0,hostel,Smartphone -- Telefon Pintar,Cellular Data,4,4,2,2,5,4,2,3,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 18:23:39,Yes,Instagram,22,Female  --  Perempuan,Student  -- Pelajar,0,Asrama,Smartphone -- Telefon Pintar,Cellular Data,5,5,3,3,5,5,2,5,3,Less than 5 min  -- Kurang daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 18:27:11,Yes,Whatsapp,21 Tahun,Male  -- Lelaki,Student  -- Pelajar,-5,Rumah sewa,Smartphone -- Telefon Pintar,WiFi,3,3,3,3,2,2,2,1,3,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 18:34:03,Yes,Whatsapp,47,Female  --  Perempuan,Employee  -- Bekerja,1000,Rumah sendiri,Smartphone -- Telefon Pintar,Cellular Data,5,5,4,4,4,4,3,3,3,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 18:58:09,Yes,TikTok,30,Female  --  Perempuan,Employee  -- Bekerja,5000,House,Smartphone -- Telefon Pintar,WiFi,1,4,1,1,4,5,3,1,2,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 18:59:13,Yes,Whatsapp,18,Female  --  Perempuan,Student  -- Pelajar,0,Asrama,Smartphone -- Telefon Pintar,WiFi,4,4,2,2,2,2,1,2,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 19:08:15,Yes,Whatsapp,16,Female  --  Perempuan,Student  -- Pelajar,0,Rumah,Smartphone -- Telefon Pintar,WiFi,5,5,2,2,2,3,2,3,4,Less than 5 min  -- Kurang daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 19:16:39,Yes,Whatsapp,16,Male  -- Lelaki,Student  -- Pelajar,0,House ,Smartphone -- Telefon Pintar,WiFi,4,4,2,2,2,4,1,2,5,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 19:22:37,Yes,TikTok,20,Female  --  Perempuan,Student  -- Pelajar,0,kolej,Smartphone -- Telefon Pintar,Cellular Data,5,4,2,1,4,4,2,3,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 19:28:48,Yes,TikTok,18,Female  --  Perempuan,Student  -- Pelajar,0,Hostel,Smartphone -- Telefon Pintar,Cellular Data,5,4,3,3,5,5,2,4,3,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 19:35:03,Yes,Whatsapp,49,Female  --  Perempuan,Employee  -- Bekerja,3000,Rumah sendiri,Smartphone -- Telefon Pintar,WiFi,4,3,4,2,5,4,3,2,3,Less than 5 min  -- Kurang daripada 5 minit,12:00 a.m - 6:00 a.m
+11/27/2023 19:46:12,Yes,TikTok,22,Female  --  Perempuan,Student  -- Pelajar,800,Asrama,Smartphone -- Telefon Pintar,Cellular Data,3,4,2,1,3,3,1,2,2,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 19:46:47,Yes,Instagram,18,Male  -- Lelaki,Student  -- Pelajar,0,kolej,Smartphone -- Telefon Pintar,WiFi,4,4,2,2,4,4,2,4,4,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 19:48:56,Yes,Whatsapp,60,Male  -- Lelaki,Unemployee  -- Tidak Bekerja,5k,Bongawan Sabah,Smartphone -- Telefon Pintar,Cellular Data,5,5,3,2,5,5,3,2,3,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 19:49:32,Yes,Twitter,18,Female  --  Perempuan,Student  -- Pelajar,0,Asrama,Smartphone -- Telefon Pintar,WiFi,3,3,2,2,4,3,2,1,5,Less than 5 min  -- Kurang daripada 5 minit,12:00 a.m - 6:00 a.m
+11/27/2023 19:54:28,Yes,Facebook,34,Male  -- Lelaki,Employee  -- Bekerja,6K,Rumah sewa,Smartphone -- Telefon Pintar,Cellular Data,3,3,2,2,2,2,2,2,2,Less than 5 min  -- Kurang daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 20:15:37,Yes,Whatsapp,66 tahun,Male  -- Lelaki,Employee  -- Bekerja,5k,Rumah sendiri,Smartphone -- Telefon Pintar,WiFi,4,4,2,1,3,3,2,1,1,More than 5 min  -- Lebih daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 20:24:45,Yes,Whatsapp,65,Male  -- Lelaki,Unemployee  -- Tidak Bekerja,0,Rumah Sendiri,Smartphone -- Telefon Pintar,Cellular Data,5,4,3,2,3,2,3,3,3,Less than 5 min  -- Kurang daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 20:26:18,Yes,Whatsapp,59,Male  -- Lelaki,Employee  -- Bekerja,7000+,Rumah,Smartphone -- Telefon Pintar,WiFi,4,4,2,2,3,3,2,2,2,More than 5 min  -- Lebih daripada 5 minit,6:00 a.m - 12:00 p.m
+11/27/2023 20:26:50,Yes,TikTok,64 years,Male  -- Lelaki,Unemployee  -- Tidak Bekerja,Lebih 3 ribu,Rumah,Smartphone -- Telefon Pintar,Cellular Data,4,4,3,3,3,4,2,4,4,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 20:28:31,Yes,Instagram,18,Male  -- Lelaki,Student  -- Pelajar,0,hostel,Smartphone -- Telefon Pintar,Cellular Data,5,3,2,3,4,5,3,3,4,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 20:33:41,Yes,TikTok,18,Female  --  Perempuan,Student  -- Pelajar,0,hostel,Smartphone -- Telefon Pintar,Cellular Data,5,4,3,3,5,5,5,2,3,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 20:38:33,Yes,TikTok,21,Female  --  Perempuan,Student  -- Pelajar,0,Rumah sewa,Smartphone -- Telefon Pintar,Cellular Data,3,3,2,2,3,3,2,2,3,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 21:03:43,Yes,TikTok,13,Female  --  Perempuan,Student  -- Pelajar,0,Rumah ,Smartphone -- Telefon Pintar,Cellular Data,4,4,2,3,4,3,2,2,3,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 21:18:31,Yes,Facebook,45,Female  --  Perempuan,Employee  -- Bekerja,9k,rumah,Smartphone -- Telefon Pintar,Cellular Data,3,4,1,1,3,2,2,1,1,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 21:42:33,Yes,Twitter,22,Female  --  Perempuan,Student  -- Pelajar,0,Rental house,Smartphone -- Telefon Pintar,WiFi,4,5,1,1,4,4,1,1,2,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 21:45:11,Yes,TikTok,23,Female  --  Perempuan,Student  -- Pelajar,0,rental house,Smartphone -- Telefon Pintar,WiFi,5,5,2,2,4,4,2,4,4,More than 5 min  -- Lebih daripada 5 minit,12:00 a.m - 6:00 a.m
+11/27/2023 21:48:36,Yes,Whatsapp,31,Female  --  Perempuan,Employee  -- Bekerja,4000,Rumah sewa,Smartphone -- Telefon Pintar,WiFi,4,4,2,2,3,3,2,3,4,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 21:49:19,Yes,TikTok,20,Female  --  Perempuan,Student  -- Pelajar,0,Hostel,Smartphone -- Telefon Pintar,WiFi,5,4,2,1,4,3,2,3,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 21:51:15,Yes,Facebook ,40,Female  --  Perempuan,Employee  -- Bekerja,9000,Rumah sendiri ,Smartphone -- Telefon Pintar,WiFi,5,5,3,3,4,4,4,3,3,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 22:05:22,Yes,Twitter,22,Female  --  Perempuan,Student  -- Pelajar,0,hostel,Smartphone -- Telefon Pintar,Cellular Data,5,5,4,3,5,5,3,4,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 22:09:20,Yes,TikTok,24,Female  --  Perempuan,Employee  -- Bekerja,1700,Rumah ibu bapa,Smartphone -- Telefon Pintar,WiFi,3,4,2,1,3,3,1,2,3,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/27/2023 22:19:48,Yes,Twitter,23,Male  -- Lelaki,Employee  -- Bekerja,5000,Rumah sewa,Smartphone -- Telefon Pintar,WiFi,4,4,1,1,4,4,1,3,4,Less than 5 min  -- Kurang daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 22:21:04,Yes,Instagram,22,Female  --  Perempuan,Student  -- Pelajar,0,Rumah sewa,Smartphone -- Telefon Pintar,WiFi,5,4,2,2,4,4,2,4,4,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/27/2023 22:37:35,Yes,Instagram,42,Female  --  Perempuan,Employee  -- Bekerja,6000,Rumah persendirian,Smartphone -- Telefon Pintar,Cellular Data,4,4,2,2,4,4,2,1,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/28/2023 0:35:27,Yes,Whatsapp,22,Male  -- Lelaki,Student  -- Pelajar,0,Kolej,Smartphone -- Telefon Pintar,Cellular Data,5,4,2,1,5,5,2,3,4,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/28/2023 6:20:04,Yes,"News, info ilmiah & youtu.be ",64,Male  -- Lelaki,Unemployee  -- Tidak Bekerja,RM3k,Rumah sendiri.,Smartphone -- Telefon Pintar,Cellular Data,3,4,4,2,5,3,3,5,3,Less than 5 min  -- Kurang daripada 5 minit,12:00 p.m - 6:00 p.m
+11/28/2023 7:15:37,Yes,Telegram,22,Female  --  Perempuan,Student  -- Pelajar,0,As,Smartphone -- Telefon Pintar,Cellular Data,3,2,1,1,2,2,4,1,2,More than 5 min  -- Lebih daripada 5 minit,12:00 a.m - 6:00 a.m
+11/28/2023 7:31:56,Yes,TikTok,27,Male  -- Lelaki,Employee  -- Bekerja,3000,Rumah sewa,Smartphone -- Telefon Pintar,Cellular Data,5,4,2,3,2,4,2,2,2,More than 5 min  -- Lebih daripada 5 minit,6:00 a.m - 12:00 p.m
+11/28/2023 7:46:06,Yes,TikTok,20,Female  --  Perempuan,Student  -- Pelajar,0,Hostel,Smartphone -- Telefon Pintar,Cellular Data,4,4,1,1,4,4,2,1,4,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/28/2023 8:02:05,Yes,TikTok,23,Female  --  Perempuan,Student  -- Pelajar,0,Rumah,Smartphone -- Telefon Pintar,WiFi,5,5,3,3,4,5,3,3,4,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/28/2023 8:06:28,Yes,TikTok,22,Female  --  Perempuan,Student  -- Pelajar,800,Rental,Smartphone -- Telefon Pintar,Cellular Data,5,5,3,3,5,5,2,4,5,Less than 5 min  -- Kurang daripada 5 minit,12:00 p.m - 6:00 p.m
+11/28/2023 8:24:59,Yes,TikTok,35,Female  --  Perempuan,Employee  -- Bekerja,Rm5000,Rumah,Smartphone -- Telefon Pintar,Cellular Data,3,4,1,1,2,2,1,1,1,More than 5 min  -- Lebih daripada 5 minit,6:00 a.m - 12:00 p.m
+11/28/2023 8:35:38,Yes,TikTok,22 years old ,Female  --  Perempuan,Student  -- Pelajar,0,Rumah,Smartphone -- Telefon Pintar,WiFi,5,5,2,2,4,4,2,3,4,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/28/2023 8:43:51,Yes,Whatsapp,55,Male  -- Lelaki,Student  -- Pelajar,0,rumah sendiri,Smartphone -- Telefon Pintar,Cellular Data,4,4,3,3,2,2,2,1,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/28/2023 9:10:06,Yes,Instagram,22,Female  --  Perempuan,Student  -- Pelajar,0,rumah,Smartphone -- Telefon Pintar,Cellular Data,3,4,2,1,4,4,1,2,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 a.m - 12:00 p.m
+11/28/2023 9:18:23,Yes,Whatsapp,24,Male  -- Lelaki,Unemployee  -- Tidak Bekerja,0,Rumah sendiri,Smartphone -- Telefon Pintar,Cellular Data,5,5,2,2,3,3,2,2,2,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/28/2023 10:15:01,Yes,TikTok,23,Female  --  Perempuan,Employee  -- Bekerja,2300,parents house,Smartphone -- Telefon Pintar,Cellular Data,5,5,3,2,4,4,2,3,4,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/28/2023 10:24:24,Yes,Twitter,25,Female  --  Perempuan,Employee  -- Bekerja,2600,Own house,Smartphone -- Telefon Pintar,Cellular Data,5,4,2,2,3,3,2,1,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/28/2023 11:49:29,Yes,TikTok,23,Female  --  Perempuan,Student  -- Pelajar,0,Family house ,Smartphone -- Telefon Pintar,Cellular Data,5,5,2,2,4,4,2,2,2,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/28/2023 12:30:51,Yes,TikTok,48,Female  --  Perempuan,Student  -- Pelajar,0,Own home,Smartphone -- Telefon Pintar,WiFi,4,4,3,3,4,4,3,3,3,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/28/2023 12:57:55,Yes,Whatsapp,29,Male  -- Lelaki,Employee  -- Bekerja,"RM2,500",Rumah Sewa,Smartphone -- Telefon Pintar,Cellular Data,5,4,3,3,3,3,3,3,3,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/28/2023 13:29:34,Yes,Whatsapp,29,Female  --  Perempuan,Employee  -- Bekerja,2000,Sewa,Smartphone -- Telefon Pintar,Cellular Data,5,4,4,4,4,4,4,4,4,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/28/2023 14:09:10,Yes,TikTok,20,Female  --  Perempuan,Student  -- Pelajar,0,rental house,Smartphone -- Telefon Pintar,WiFi,5,5,4,3,5,5,2,5,3,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/28/2023 14:33:13,Yes,TikTok,38,Female  --  Perempuan,Employee  -- Bekerja,"RM6,000",RUMAH,Smartphone -- Telefon Pintar,WiFi,4,4,2,2,2,2,2,2,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/28/2023 16:42:11,Yes,Instagram,24,Male  -- Lelaki,Student  -- Pelajar,0,Home,Smartphone -- Telefon Pintar,Cellular Data,5,4,2,2,3,3,2,2,3,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/28/2023 16:48:17,Yes,TikTok,21,Female  --  Perempuan,Student  -- Pelajar,300,rumah sewa,Smartphone -- Telefon Pintar,Cellular Data,3,3,2,2,2,2,2,2,4,Less than 5 min  -- Kurang daripada 5 minit,12:00 a.m - 6:00 a.m
+11/28/2023 17:01:20,Yes,Whatsapp,43,Female  --  Perempuan,Employee  -- Bekerja,7500,Rumah Sendiri,Smartphone -- Telefon Pintar,Cellular Data,5,3,3,3,4,4,4,2,2,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/28/2023 17:12:50,Yes,Whatsapp,28,Female  --  Perempuan,Student  -- Pelajar,0,own house,Smartphone -- Telefon Pintar,Cellular Data,3,4,3,2,3,3,2,4,1,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/28/2023 21:06:24,Yes,Instagram,20,Female  --  Perempuan,Student  -- Pelajar,0,Rumah,Smartphone -- Telefon Pintar,WiFi,3,3,2,2,2,2,2,1,4,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/29/2023 1:45:03,Yes,LinkedIn,40,Female  --  Perempuan,Employee  -- Bekerja,9000,rumah sendiri,Smartphone -- Telefon Pintar,WiFi,3,3,2,2,2,2,2,2,2,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/29/2023 3:20:37,Yes,Instagram,22,Female  --  Perempuan,Student  -- Pelajar,0,rental house,Smartphone -- Telefon Pintar,WiFi,5,5,3,2,4,3,2,4,2,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/29/2023 3:22:18,Yes,Instagram,22,Female  --  Perempuan,Student  -- Pelajar,0,rental house ,Smartphone -- Telefon Pintar,WiFi,5,5,2,2,4,4,2,4,2,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/29/2023 8:07:58,Yes,GOOGLE CHROME,27,Male  -- Lelaki,Employee  -- Bekerja,3639,rumah sewa,Laptop -- Komputer Riba,WiFi,3,3,1,3,1,2,2,1,2,Less than 5 min  -- Kurang daripada 5 minit,12:00 a.m - 6:00 a.m
+11/29/2023 8:22:21,Yes,Whatsapp,27,Male  -- Lelaki,Employee  -- Bekerja,2000,rumah sewa,Smartphone -- Telefon Pintar,Cellular Data,4,3,2,2,4,4,2,2,2,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/29/2023 9:12:49,Yes,Instagram,22,Female  --  Perempuan,Student  -- Pelajar,0,house,Smartphone -- Telefon Pintar,WiFi,5,5,2,2,5,5,4,2,2,Less than 5 min  -- Kurang daripada 5 minit,12:00 p.m - 6:00 p.m
+11/29/2023 9:15:51,Yes,Whatsapp,59,Male  -- Lelaki,Employee  -- Bekerja,5000+,Rumah sendiri,Smartphone -- Telefon Pintar,WiFi,4,2,3,2,3,3,3,2,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/29/2023 9:50:01,Yes,TikTok,25,Female  --  Perempuan,Employee  -- Bekerja,2400,parents,Smartphone -- Telefon Pintar,Cellular Data,5,4,3,2,4,4,2,3,2,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/29/2023 10:34:13,Yes,Whatsapp,18,Female  --  Perempuan,Student  -- Pelajar,0,Hostel,Smartphone -- Telefon Pintar,Cellular Data,4,4,2,2,3,3,2,1,2,Less than 5 min  -- Kurang daripada 5 minit,6:00 a.m - 12:00 p.m
+11/29/2023 10:49:58,Yes,Whatsapp,52,Male  -- Lelaki,Employee  -- Bekerja,Rm5k,Rumah keluarga,Smartphone -- Telefon Pintar,Cellular Data,3,3,2,3,4,3,4,3,3,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/29/2023 11:00:34,Yes,Whatsapp,28,Female  --  Perempuan,Employee  -- Bekerja,4000,Sewa,Smartphone -- Telefon Pintar,WiFi,4,3,2,1,2,2,2,3,3,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/29/2023 11:10:43,Yes,TikTok,21,Female  --  Perempuan,Student  -- Pelajar,0,rented house,Smartphone -- Telefon Pintar,WiFi,5,5,2,2,4,5,2,5,5,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/29/2023 11:46:12,Yes,TikTok,22,Female  --  Perempuan,Student  -- Pelajar,0,kolej,Smartphone -- Telefon Pintar,WiFi,5,4,4,5,5,2,2,5,5,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/29/2023 13:30:44,Yes,Whatsapp,26,Female  --  Perempuan,Employee  -- Bekerja,"RM2,188",Rental house ,Smartphone -- Telefon Pintar,WiFi,5,4,3,3,3,3,2,3,3,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+11/29/2023 14:28:35,Yes,"Facebook, Telegram",35,Female  --  Perempuan,Employee  -- Bekerja,5000,Rumah sendiri,Smartphone -- Telefon Pintar,WiFi,4,3,2,2,4,2,3,2,2,More than 5 min  -- Lebih daripada 5 minit,6:00 a.m - 12:00 p.m
+11/29/2023 15:21:04,Yes,Twitter,23,Female  --  Perempuan,Student  -- Pelajar,0,hostel,Smartphone -- Telefon Pintar,WiFi,5,5,2,2,5,5,3,5,5,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/30/2023 8:26:52,Yes,Instagram,24,Female  --  Perempuan,Employee  -- Bekerja,1000,rumah keluarga,Smartphone -- Telefon Pintar,Cellular Data,3,3,2,4,2,2,3,3,3,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+11/30/2023 12:35:44,Yes,TikTok,23,Female  --  Perempuan,Employee  -- Bekerja,2000,rental house,Smartphone -- Telefon Pintar,Cellular Data,5,4,4,4,4,4,1,5,5,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/30/2023 13:52:00,Yes,TikTok,60,Male  -- Lelaki,Unemployee  -- Tidak Bekerja,Rm1000,Rumah sendiri,Smartphone -- Telefon Pintar,WiFi,3,3,3,2,2,3,2,2,2,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+11/30/2023 16:44:10,Yes,Youtube,13,Female  --  Perempuan,Student  -- Pelajar,0,Rumah,Smartphone -- Telefon Pintar,WiFi,3,2,1,1,1,3,1,1,1,More than 5 min  -- Lebih daripada 5 minit,6:00 a.m - 12:00 p.m
+11/30/2023 23:22:38,Yes,TikTok,27,Female  --  Perempuan,Student  -- Pelajar,600,rumah sewa,Smartphone -- Telefon Pintar,Cellular Data,5,5,2,2,3,3,3,2,2,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+12/1/2023 23:05,Yes,TikTok,22,Female  --  Perempuan,Student  -- Pelajar,0,asrama,Smartphone -- Telefon Pintar,WiFi,5,5,2,2,5,5,3,1,3,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+12/2/2023 23:36,Yes,Whatsapp,56,Male  -- Lelaki,Employee  -- Bekerja,7000,Rumah sendiri,Smartphone -- Telefon Pintar,WiFi,3,4,3,2,3,2,2,2,2,More than 5 min  -- Lebih daripada 5 minit,6:00 a.m - 12:00 p.m
+12/3/2023 1:01,Yes,Instagram,22,Female  --  Perempuan,Student  -- Pelajar,1000,Rental house,Smartphone -- Telefon Pintar,WiFi,3,1,3,1,3,1,3,1,3,More than 5 min  -- Lebih daripada 5 minit,12:00 p.m - 6:00 p.m
+12/3/2023 12:53,Yes,Twitter,24,Female  --  Perempuan,Student  -- Pelajar,0,House ,Smartphone -- Telefon Pintar,WiFi,3,4,2,2,3,3,2,4,4,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+12/4/2023 15:17,Yes,TikTok,13,Male  -- Lelaki,Student  -- Pelajar,10-56 (kerja sebagai penolong di gerai mama),Rumah Sewa,Smartphone -- Telefon Pintar,Cellular Data,5,5,3,4,5,5,3,2,4,Less than 5 min  -- Kurang daripada 5 minit,6:00 p.m - 12:00 a.m
+12/9/2023 4:18,Yes,Instagram,21,Female  --  Perempuan,Student  -- Pelajar,0,rental house,Smartphone -- Telefon Pintar,Cellular Data,5,4,2,2,2,2,2,2,4,More than 5 min  -- Lebih daripada 5 minit,6:00 p.m - 12:00 a.m
+5/21/2023 23:17:57,Yes,Instagram,23,Male,Student,0,Urban/City,Smartphone,Wifi,3,4,3,2,4,4,2,4,2,more than 5 minutes,12:00 p.m - 6:00 p.m
+5/21/2023 23:30:40,Yes,Twitter,22,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,3,4,0,0,3,2,0,0,0,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/22/2023 9:18:08,Yes,Instagram,22,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,3,2,2,4,4,3,5,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+5/22/2023 22:37:42,Yes,Instagram,22,Male,Student,0,Urban/City,Smartphone,Wifi,3,4,0,0,4,4,1,2,5,less than 5 minutes,12:00 p.m - 6:00 p.m
+5/23/2023 0:42:14,Yes,Twitter,22,Male,Student,0,Urban/City,Smartphone,Wifi,4,4,2,2,3,3,2,2,2,less than 5 minutes,12:00 a.m - 6:00 a.m
+5/23/2023 14:31:11,Yes,TikTok,21,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,5,5,3,3,4,5,3,4,5,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 14:33:17,Yes,TikTok,21,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,4,4,3,5,5,2,4,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 14:36:13,Yes,Instagram,21,Female,Student,0,Urban/City,Smartphone,Wifi,4,4,0,0,5,5,0,5,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 14:41:44,Yes,TikTok,21,Male,Student,500,Urban/City,Smartphone,Wifi,3,4,1,2,3,3,1,1,3,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 14:48:41,Yes,Instagram,24,Female,Student,0,Urban/City,Smartphone,Cellular Data,3,3,1,0,2,2,0,2,2,less than 5 minutes,12:00 a.m - 6:00 a.m
+5/23/2023 14:51:49,Yes,TikTok,21,Female,Student,0,Urban/City,Smartphone,Cellular Data,5,4,4,4,5,5,3,5,4,less than 5 minutes,12:00 p.m - 6:00 p.m
+5/23/2023 15:19:23,Yes,Twitter,21,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,3,3,0,0,2,2,0,0,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 15:28:03,Yes,Twitter,22,Male,Student,0,Urban/City,Smartphone,Wifi,3,3,0,1,5,5,4,1,3,more than 5 minutes,12:00 a.m - 6:00 a.m
+5/23/2023 15:28:58,Yes,Instagram,22,Male,Student,0,Rural/Countryside,Tablet,Cellular Data,5,5,4,4,5,5,3,5,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+5/23/2023 15:30:00,Yes,Instagram,22,Female,Student,0,Rural/Countryside,Laptop,Wifi,5,5,5,5,5,5,5,5,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+5/23/2023 15:35:52,Yes,TikTok,18,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,3,1,1,5,5,1,3,5,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 15:42:55,Yes,Instagram,22,Male,Student,0,Urban/City,Smartphone,Wifi,5,4,1,1,2,1,0,3,0,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 15:49:53,Yes,Instagram,22,Female,Unemployed,0,Rural/Countryside,Smartphone,Wifi,5,5,1,1,5,5,5,3,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 16:42:50,Yes,TikTok,26,Female,Employee,2000,Urban/City,Smartphone,Wifi,3,3,1,1,4,4,1,1,4,more than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 16:52:16,Yes,TikTok,22,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,3,2,3,2,1,1,0,3,1,more than 5 minutes,6:00 a.m - 12:00 p.m
+5/23/2023 17:38:40,Yes,Instagram,14,Male,Student,0,Rural/Countryside,Laptop,Wifi,3,4,2,2,5,5,3,4,5,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 18:25:40,Yes,Twitter,22,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,5,2,1,1,1,1,1,1,1,more than 5 minutes,12:00 p.m - 6:00 p.m
+5/23/2023 18:43:56,Yes,TikTok,16,Female,Student,0,Urban/City,Smartphone,Wifi,4,2,0,0,3,3,0,1,2,more than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 19:13:02,Yes,TikTok,16,Female,Student,0,Urban/City,Smartphone,Wifi,5,4,0,0,3,1,0,3,0,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 20:00:17,Yes,Instagram,22,Male,Student,0,Rural/Countryside,Smartphone,Wifi,3,3,1,1,3,3,1,4,2,more than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 20:11:20,Yes,Instagram,22,Male,Student,0,Urban/City,Smartphone,Cellular Data,4,5,3,2,3,3,1,3,4,more than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 20:36:52,Yes,Twitter,22,Male,Student,0,Urban/City,Smartphone,Wifi,5,3,3,3,3,3,2,4,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 20:41:58,Yes,Instagram,22,Female,Student,0,Rural/Countryside,Laptop,Wifi,3,3,0,0,3,3,1,3,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 20:43:29,Yes,Instagram,22,Male,Student,0,Rural/Countryside,Smartphone,Wifi,2,2,0,0,2,2,2,2,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 20:44:16,Yes,Instagram,22,Male,Student,0,Rural/Countryside,Smartphone,Wifi,3,3,0,0,1,1,0,0,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 20:45:55,Yes,Instagram,40,Female,Self-Employed,5000,Rural/Countryside,Smartphone,Wifi,3,4,0,0,2,2,0,0,0,less than 5 minutes,12:00 p.m - 6:00 p.m
+5/23/2023 20:51:11,Yes,Twitter,23,Male,Student,0,Rural/Countryside,Smartphone,Wifi,5,4,1,1,2,2,1,1,5,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 20:57:03,Yes,Instagram,22,Male,Student,0,Urban/City,Smartphone,Wifi,2,2,1,0,1,2,3,2,1,more than 5 minutes,12:00 p.m - 6:00 p.m
+5/23/2023 21:03:18,Yes,Twitter,22,Male,Student,0,Urban/City,Smartphone,Wifi,4,3,2,1,3,4,4,2,4,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 21:12:05,Yes,TikTok,22,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,5,1,1,2,2,1,1,2,more than 5 minutes,12:00 p.m - 6:00 p.m
+5/23/2023 22:08:05,Yes,Instagram,22,Male,Unemployed,-,Urban/City,Smartphone,Wifi,5,3,1,0,0,2,0,3,5,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/23/2023 23:00:22,Yes,TikTok,21,Female,Student,0,Urban/City,Smartphone,Wifi,4,2,1,0,3,4,1,3,0,less than 5 minutes,12:00 p.m - 6:00 p.m
+5/24/2023 0:56:00,Yes,TikTok,23,Female,Unemployed,0,Rural/Countryside,Smartphone,Cellular Data,5,5,3,2,4,4,1,4,3,more than 5 minutes,12:00 p.m - 6:00 p.m
+5/24/2023 2:19:44,Yes,TikTok,22,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,4,1,0,4,4,2,3,4,less than 5 minutes,12:00 a.m - 6:00 a.m
+5/24/2023 9:50:19,Yes,Instagram,26,Female,Employee,2000,Urban/City,Smartphone,Cellular Data,4,4,1,0,1,1,0,2,1,less than 5 minutes,12:00 p.m - 6:00 p.m
+5/24/2023 9:51:27,Yes,Instagram,27,Female,Employee,3000,Urban/City,Smartphone,Cellular Data,5,4,4,1,5,5,1,4,3,more than 5 minutes,6:00 p.m - 12:00 a.m
+5/24/2023 9:52:04,Yes,Instagram,29,Female,Employee,2000,Urban/City,Smartphone,Cellular Data,2,2,1,0,2,2,1,0,2,less than 5 minutes,12:00 p.m - 6:00 p.m
+5/24/2023 10:08:01,Yes,Instagram,45,Male,Employee,2000,Urban/City,Smartphone,Cellular Data,3,4,3,3,4,4,3,2,2,less than 5 minutes,12:00 p.m - 6:00 p.m
+5/24/2023 10:08:52,Yes,Twitter,30,Male,Employee,2500,Rural/Countryside,Smartphone,Cellular Data,5,0,1,2,0,0,0,2,1,less than 5 minutes,12:00 a.m - 6:00 a.m
+5/24/2023 10:15:45,Yes,TikTok,38,Female,Employee,3000,Rural/Countryside,Smartphone,Cellular Data,4,4,1,1,4,4,3,0,2,more than 5 minutes,6:00 p.m - 12:00 a.m
+5/24/2023 10:26:28,Yes,Instagram,38,Female,Employee,1500,Urban/City,Smartphone,Cellular Data,5,3,2,2,2,4,2,2,2,more than 5 minutes,12:00 p.m - 6:00 p.m
+5/24/2023 10:31:13,Yes,Instagram,40,Female,Employee,3000,Urban/City,Smartphone,Cellular Data,3,4,0,0,5,5,1,0,0,less than 5 minutes,12:00 p.m - 6:00 p.m
+5/24/2023 10:38:49,Yes,TikTok,43,Female,Employee,2000,Urban/City,Smartphone,Cellular Data,2,2,2,2,2,2,1,2,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/24/2023 10:47:06,Yes,Instagram,46,Female,Self-Employed,"RM2,500",Urban/City,Smartphone,Cellular Data,3,3,0,0,1,1,1,0,0,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/24/2023 10:54:12,Yes,Twitter,52,Male,Self-Employed,5,Urban/City,Smartphone,Cellular Data,3,4,2,2,3,3,2,1,2,more than 5 minutes,6:00 a.m - 12:00 p.m
+5/24/2023 10:59:28,Yes,Instagram,42,Female,Self-Employed,"RM4,000",Urban/City,Smartphone,Cellular Data,3,4,3,1,3,2,2,1,1,less than 5 minutes,12:00 p.m - 6:00 p.m
+5/24/2023 11:00:28,Yes,Instagram,13,Male,Student,0,Urban/City,Smartphone,Wifi,4,4,4,4,4,4,4,4,4,more than 5 minutes,6:00 p.m - 12:00 a.m
+5/24/2023 11:09:29,Yes,TikTok,48,Female,Self-Employed,6000,Urban/City,Smartphone,Cellular Data,4,4,0,0,1,1,1,0,0,less than 5 minutes,12:00 p.m - 6:00 p.m
+5/24/2023 11:12:19,Yes,Instagram,32,Male,Self-Employed,1500,Urban/City,Smartphone,Cellular Data,3,5,3,3,5,4,4,4,3,more than 5 minutes,12:00 a.m - 6:00 a.m
+5/24/2023 12:25:38,Yes,TikTok,45,Male,Self-Employed,1500,Urban/City,Smartphone,Cellular Data,5,5,1,1,2,2,1,1,1,less than 5 minutes,6:00 a.m - 12:00 p.m
+5/24/2023 12:42:42,Yes,TikTok,39,Male,Employee,5000,Urban/City,Smartphone,Cellular Data,3,4,3,3,3,4,3,2,4,more than 5 minutes,6:00 p.m - 12:00 a.m
+5/24/2023 13:03:31,Yes,Instagram,18,Male,Student,0,Rural/Countryside,Smartphone,Wifi,5,4,1,1,3,1,3,4,0,less than 5 minutes,12:00 p.m - 6:00 p.m
+5/24/2023 13:14:16,Yes,Instagram,22,Female,Student,0,Urban/City,Smartphone,Wifi,5,4,1,2,4,5,2,4,5,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/24/2023 13:34:13,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5/24/2023 13:47:31,Yes,TikTok,34,Female,Employee,"RM3,000.00",Urban/City,Smartphone,Cellular Data,3,4,1,1,3,3,2,1,1,more than 5 minutes,6:00 p.m - 12:00 a.m
+5/24/2023 13:49:52,Yes,Instagram,36,Female,Employee,2500,Urban/City,Smartphone,Cellular Data,4,4,2,0,1,1,0,1,1,less than 5 minutes,12:00 p.m - 6:00 p.m
+5/24/2023 14:25:34,Yes,TikTok,33,Female,Employee,2500,Urban/City,Smartphone,Cellular Data,3,4,1,1,2,2,2,1,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/24/2023 14:32:00,Yes,TikTok,22,Male,Student,0,Rural/Countryside,Smartphone,Wifi,5,5,3,3,5,5,2,2,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+5/24/2023 14:33:13,Yes,TikTok,22,Male,Student,0,Urban/City,Tablet,Cellular Data,5,5,1,1,4,4,1,2,5,less than 5 minutes,12:00 a.m - 6:00 a.m
+5/24/2023 16:57:29,Yes,TikTok,41,Male,Unemployed,1500,Urban/City,Smartphone,Cellular Data,5,4,2,3,3,3,3,3,3,more than 5 minutes,6:00 p.m - 12:00 a.m
+5/24/2023 20:57:13,Yes,TikTok,23,Female,Employee,350,Urban/City,Smartphone,Cellular Data,4,5,4,4,4,4,1,4,2,more than 5 minutes,12:00 a.m - 6:00 a.m
+5/25/2023 14:40:46,Yes,TikTok,22,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,5,5,4,4,4,5,4,5,4,more than 5 minutes,12:00 p.m - 6:00 p.m
+5/25/2023 20:14:38,Yes,TikTok,51,Female,Employee,4000,Urban/City,Smartphone,Cellular Data,5,3,4,2,3,3,3,3,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+5/26/2023 5:48:22,Yes,TikTok,50,Male,Self-Employed,1500,Urban/City,Smartphone,Cellular Data,2,3,0,0,0,3,0,0,3,more than 5 minutes,6:00 p.m - 12:00 a.m
+5/28/2023 13:25:00,Yes,TikTok,22,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,5,5,5,3,4,5,4,3,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+5/30/2023 14:32:32,Yes,TikTok,22,Male,Student,0,Urban/City,Smartphone,Wifi,2,2,0,0,1,1,0,1,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/30/2023 14:37:22,Yes,Twitter,22,Male,Student,0,Urban/City,Smartphone,Wifi,5,5,1,1,5,5,1,1,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/30/2023 14:40:37,Yes,TikTok,24,Male,Student,0,Urban/City,Smartphone,Wifi,3,3,0,1,0,0,0,1,0,more than 5 minutes,12:00 p.m - 6:00 p.m
+5/30/2023 14:41:27,Yes,Instagram,24,Male,Student,0,Urban/City,Smartphone,Cellular Data,3,4,1,0,4,4,1,1,0,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/30/2023 14:41:33,Yes,TikTok,22,Male,Student,600,Rural/Countryside,Smartphone,Wifi,3,3,1,1,1,1,3,3,3,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/30/2023 14:42:14,Yes,TikTok,22,Male,Student,0,Urban/City,Smartphone,Cellular Data,4,5,2,1,3,3,2,3,2,more than 5 minutes,6:00 p.m - 12:00 a.m
+5/30/2023 14:44:27,Yes,TikTok,22,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,3,2,0,0,3,3,0,3,3,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/30/2023 15:07:49,Yes,Instagram,24,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,4,2,2,4,4,1,3,4,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/30/2023 21:28:32,Yes,Instagram,22,Male,Student,0,Urban/City,Smartphone,Wifi,3,4,1,0,5,5,0,2,2,more than 5 minutes,12:00 p.m - 6:00 p.m
+5/30/2023 21:47:22,Yes,TikTok,22,Male,Student,0,Urban/City,Smartphone,Wifi,4,4,0,0,4,4,0,0,4,more than 5 minutes,6:00 p.m - 12:00 a.m
+5/31/2023 1:53:29,Yes,TikTok,22,Male,Student,0,Urban/City,Smartphone,Cellular Data,5,5,3,3,5,5,2,1,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+5/31/2023 19:59:33,Yes,Instagram,21,Male,Student,0,Urban/City,Smartphone,Cellular Data,4,4,2,1,3,3,1,4,5,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/31/2023 20:15:39,Yes,Instagram,22,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,3,3,0,1,5,5,2,3,5,less than 5 minutes,12:00 p.m - 6:00 p.m
+5/31/2023 20:26:04,Yes,Instagram,21,Male,Student,0,Rural/Countryside,Laptop,Wifi,4,3,3,4,4,3,4,3,3,more than 5 minutes,12:00 p.m - 6:00 p.m
+5/31/2023 20:26:06,Yes,TikTok,22,Female,Student,0,Rural/Countryside,Smartphone,Wifi,5,4,2,1,4,5,3,2,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+5/31/2023 20:26:28,Yes,Instagram,22,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,5,3,3,2,4,4,1,5,5,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/31/2023 20:26:50,Yes,TikTok,22,Female,Student,0,Rural/Countryside,Smartphone,Wifi,3,3,1,0,3,4,0,3,4,more than 5 minutes,6:00 a.m - 12:00 p.m
+5/31/2023 20:27:15,Yes,Instagram,22,Male,Student,0,Rural/Countryside,Smartphone,Wifi,5,5,0,0,5,5,0,2,5,less than 5 minutes,12:00 p.m - 6:00 p.m
+5/31/2023 20:29:50,Yes,TikTok,25,Female,Unemployed,0,Urban/City,Smartphone,Cellular Data,5,5,3,2,2,2,2,2,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/31/2023 20:30:22,Yes,TikTok,22,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,3,4,4,3,3,2,3,3,3,more than 5 minutes,6:00 p.m - 12:00 a.m
+5/31/2023 20:30:44,Yes,Instagram,18,Male,Student,0,Rural/Countryside,Smartphone,Wifi,3,3,2,1,2,2,2,2,4,less than 5 minutes,6:00 a.m - 12:00 p.m
+5/31/2023 20:31:29,Yes,Twitter,22,Male,Student,0,Rural/Countryside,Smartphone,Wifi,3,3,3,2,4,4,0,2,3,less than 5 minutes,12:00 a.m - 6:00 a.m
+5/31/2023 20:32:12,Yes,Instagram,22,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,5,4,1,1,3,3,1,4,1,more than 5 minutes,6:00 p.m - 12:00 a.m
+5/31/2023 20:33:20,Yes,TikTok,20,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,5,4,3,3,4,5,5,5,4,more than 5 minutes,12:00 p.m - 6:00 p.m
+5/31/2023 20:34:56,Yes,Twitter,24,Female,Employee,1600,Urban/City,Smartphone,Wifi,5,5,4,4,4,5,4,2,4,more than 5 minutes,12:00 p.m - 6:00 p.m
+5/31/2023 20:39:11,Yes,TikTok,22,Female,Employee,2200,Rural/Countryside,Tablet,Cellular Data,5,3,1,2,5,5,1,2,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/31/2023 21:10:44,Yes,Instagram,22,Male,Student,0,Urban/City,Smartphone,Wifi,3,2,1,1,2,3,1,3,2,less than 5 minutes,12:00 p.m - 6:00 p.m
+5/31/2023 22:08:16,Yes,TikTok,22,Female,Student,0,Urban/City,Smartphone,Cellular Data,4,4,2,1,4,4,2,3,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+5/31/2023 22:29:42,Yes,Twitter,22,Male,Student,0,Urban/City,Smartphone,Wifi,5,4,1,1,4,4,2,1,3,more than 5 minutes,12:00 a.m - 6:00 a.m
+6/1/2023 8:30,Yes,TikTok,19,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,4,5,4,5,2,4,5,4,less than 5 minutes,6:00 p.m - 12:00 a.m
+6/1/2023 8:31,Yes,Instagram,25,Female,Employee,1700,Urban/City,Tablet,Wifi,5,5,2,2,5,5,3,3,3,more than 5 minutes,6:00 a.m - 12:00 p.m
+6/1/2023 8:32,Yes,TikTok,15,Male,Student,0,Urban/City,Smartphone,Wifi,5,5,3,3,5,5,4,4,4,more than 5 minutes,12:00 p.m - 6:00 p.m
+6/1/2023 8:34,Yes,Twitter,29,Male,Employee,2500,Urban/City,Laptop,Wifi,3,4,1,1,4,4,1,1,5,less than 5 minutes,6:00 p.m - 12:00 a.m
+6/2/2023 16:22,Yes,Instagram,22,Female,Student,0,Urban/City,Smartphone,Cellular Data,3,3,0,0,1,1,0,3,2,more than 5 minutes,6:00 p.m - 12:00 a.m
+6/5/2023 20:26,Yes,TikTok,35,Female,Unemployed,0,Rural/Countryside,Smartphone,Wifi,3,4,1,2,3,4,3,0,4,less than 5 minutes,6:00 p.m - 12:00 a.m
+6/6/2023 14:24,Yes,TikTok,32,Female,Self-Employed,4500,Urban/City,Smartphone,Wifi,3,4,2,1,5,5,2,2,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+6/6/2023 14:25,Yes,Twitter,30,Male,Employee,2400,Urban/City,Laptop,Wifi,5,5,5,4,4,4,5,5,5,less than 5 minutes,6:00 p.m - 12:00 a.m
+6/6/2023 14:25,Yes,TikTok,21,Male,Student,0,Urban/City,Smartphone,Cellular Data,5,5,1,1,5,5,1,2,5,less than 5 minutes,6:00 a.m - 12:00 p.m
+6/6/2023 14:26,Yes,TikTok,16,Female,Student,0,Rural/Countryside,Tablet,Wifi,5,5,4,4,5,5,0,5,2,more than 5 minutes,6:00 p.m - 12:00 a.m
+6/6/2023 14:29,Yes,Instagram,28,Female,Employee,4200,Urban/City,Smartphone,Wifi,5,5,5,5,4,4,4,4,4,more than 5 minutes,12:00 p.m - 6:00 p.m
+6/6/2023 14:29,Yes,TikTok,13,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,5,5,3,3,5,3,4,3,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+6/6/2023 14:30,Yes,Twitter,23,Male,Student,0,Urban/City,Smartphone,Cellular Data,4,3,3,4,4,5,5,4,4,more than 5 minutes,6:00 p.m - 12:00 a.m
+6/6/2023 14:31,Yes,TikTok,16,Female,Student,0,Rural/Countryside,Smartphone,Wifi,5,5,3,4,5,5,2,2,2,more than 5 minutes,6:00 a.m - 12:00 p.m
+6/6/2023 14:36,Yes,Twitter,24,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,5,5,3,3,3,4,3,3,5,less than 5 minutes,12:00 p.m - 6:00 p.m
+6/6/2023 14:38,Yes,TikTok,19,Male,Student,0,Urban/City,Smartphone,Wifi,5,5,2,2,5,5,2,3,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+6/6/2023 14:39,Yes,TikTok,22,Male,Student,0,Urban/City,Smartphone,Wifi,4,5,3,1,4,5,5,4,5,less than 5 minutes,6:00 p.m - 12:00 a.m
+6/6/2023 15:04,Yes,TikTok,22,Male,Student,0,Urban/City,Smartphone,Wifi,5,5,1,3,0,0,0,1,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+6/7/2023 13:29,Yes,TikTok,35,Female,Self-Employed,6000,Urban/City,Smartphone,Cellular Data,4,4,1,1,2,2,1,1,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+6/7/2023 13:35,Yes,TikTok,42,Female,Employee,2400,Urban/City,Smartphone,Cellular Data,2,2,2,2,2,2,2,2,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+6/8/2023 15:59,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6/9/2023 13:38,Yes,Instagram,28,Female,Employee,2000,Urban/City,Smartphone,Cellular Data,3,3,3,3,3,3,3,3,3,less than 5 minutes,6:00 p.m - 12:00 a.m
+6/9/2023 14:25,Yes,TikTok,40,Male,Self-Employed,4000,Urban/City,Smartphone,Cellular Data,3,3,3,3,3,3,3,3,3,less than 5 minutes,6:00 p.m - 12:00 a.m
+6/9/2023 14:29,Yes,TikTok,30,Male,Employee,1890,Urban/City,Smartphone,Cellular Data,5,4,1,1,3,3,2,0,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+6/9/2023 14:30,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6/9/2023 14:31,Yes,Instagram,27,Female,Employee,2000,Urban/City,Smartphone,Cellular Data,5,5,1,0,2,2,2,1,2,less than 5 minutes,12:00 a.m - 6:00 a.m
+6/9/2023 14:32,Yes,Twitter,28,Male,Employee,1500,Urban/City,Smartphone,Cellular Data,4,4,2,1,2,2,1,1,3,less than 5 minutes,12:00 a.m - 6:00 a.m
+6/9/2023 14:33,Yes,Twitter,33,Male,Self-Employed,2000,Urban/City,Smartphone,Cellular Data,5,3,3,3,3,3,3,3,3,more than 5 minutes,12:00 a.m - 6:00 a.m
+6/9/2023 14:38,Yes,TikTok,28,Male,Self-Employed,1800,Urban/City,Smartphone,Wifi,5,5,5,5,5,5,5,5,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+6/10/2023 9:05,Yes,Instagram,50,Male,Unemployed,5000,Rural/Countryside,Tablet,Wifi,4,4,3,3,3,3,3,3,3,more than 5 minutes,6:00 p.m - 12:00 a.m
+6/22/2023 8:59:19,Yes,Instagram,18,Male,Student,0,Urban/City,Smartphone,Wifi,5,5,1,1,4,5,2,2,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+6/22/2023 9:00:30,Yes,Twitter,27,Male,Employee,3400,Urban/City,Tablet,Wifi,4,4,1,1,3,3,1,1,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+6/22/2023 9:01:31,Yes,TikTok,22,Female,Unemployed,0,Rural/Countryside,Smartphone,Cellular Data,3,4,3,3,4,5,4,4,5,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/3/2023 1:17,Yes,TikTok,23,Male,Self-Employed,15000,Urban/City,Smartphone,Wifi,5,5,2,2,5,5,2,2,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 1:18,Yes,Twitter,13,Female,Student,0,Urban/City,Smartphone,Wifi,5,5,2,4,5,5,5,5,1,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/3/2023 1:18,Yes,TikTok,33,Male,Employee,5000,Rural/Countryside,Tablet,Cellular Data,4,5,0,0,5,5,0,0,0,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 1:19,Yes,Instagram,22,Female,Student,3000,Urban/City,Smartphone,Wifi,5,5,5,5,5,5,5,5,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 1:20,Yes,Instagram,16,Male,Student,0,Urban/City,Smartphone,Wifi,5,5,3,3,5,3,0,3,0,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/3/2023 1:34,Yes,Instagram,19,Female,Student,0,Urban/City,Smartphone,Cellular Data,5,5,4,4,5,5,0,5,2,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 1:39,Yes,TikTok,15,Male,Student,0,Urban/City,Tablet,Wifi,3,3,0,0,3,3,0,0,0,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 1:41,Yes,TikTok,32,Female,Employee,2700,Rural/Countryside,Smartphone,Cellular Data,2,2,0,0,2,4,0,0,0,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 1:43,Yes,TikTok,24,Male,Employee,1500,Urban/City,Smartphone,Cellular Data,5,5,2,2,5,5,0,2,3,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/3/2023 1:45,Yes,Twitter,23,Female,Student,0,Urban/City,Smartphone,Cellular Data,5,5,4,4,5,5,0,5,0,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 10:12,Yes,TikTok,23,Female,Student,0,Urban/City,Smartphone,Wifi,5,5,3,3,5,5,0,5,3,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/3/2023 10:13,Yes,Instagram,20,Male,Student,0,Rural/Countryside,Smartphone,Wifi,4,4,3,5,4,4,0,1,2,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 10:30,Yes,TikTok,17,Female,Student,0,Rural/Countryside,Tablet,Cellular Data,4,4,0,0,5,5,2,1,3,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/3/2023 10:32,Yes,Twitter,21,Male,Student,0,Urban/City,Smartphone,Wifi,5,5,0,0,5,5,2,0,4,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/3/2023 10:39,Yes,Twitter,26,Male,Employee,4000,Urban/City,Smartphone,Cellular Data,5,5,4,4,5,5,0,5,1,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 11:18,Yes,Instagram,22,Male,Student,0,Rural/Countryside,Smartphone,Wifi,5,5,5,5,5,5,5,5,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 14:41,Yes,TikTok,22,Male,Student,0,Urban/City,Smartphone,Wifi,5,5,1,1,5,5,1,5,2,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 14:42,Yes,Twitter,19,Female,Student,0,Urban/City,Laptop,Wifi,3,3,5,1,5,3,0,0,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 14:43,Yes,Instagram,22,Female,Student,0,Urban/City,Smartphone,Cellular Data,5,5,5,5,5,5,2,5,2,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 14:44,Yes,TikTok,18,Male,Student,0,Rural/Countryside,Smartphone,Wifi,5,5,0,0,5,5,0,0,0,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 14:45,Yes,TikTok,21,Male,Student,0,Urban/City,Smartphone,Wifi,4,3,4,3,3,2,3,3,3,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/3/2023 14:47,Yes,Instagram,17,Female,Student,0,Rural/Countryside,Smartphone,Wifi,4,3,5,5,5,5,0,5,0,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/3/2023 14:55,Yes,TikTok,21,Male,Student,0,Rural/Countryside,Smartphone,Wifi,5,5,0,0,3,3,3,5,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/3/2023 14:58,Yes,TikTok,23,Male,Student,0,Rural/Countryside,Tablet,Cellular Data,5,5,3,3,5,5,1,5,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 14:59,Yes,TikTok,18,Male,Student,0,Urban/City,Smartphone,Wifi,5,5,1,1,4,4,0,1,5,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/3/2023 15:02,Yes,TikTok,24,Male,Employee,2300,Rural/Countryside,Smartphone,Cellular Data,3,5,1,1,5,5,0,3,1,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 15:06,Yes,TikTok,20,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,5,5,5,5,5,2,4,5,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/3/2023 15:08,Yes,TikTok,20,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,0,0,0,0,0,0,0,0,0,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 15:08,Yes,Instagram,15,Female,Student,0,Urban/City,Smartphone,Cellular Data,5,5,5,5,5,5,5,5,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 15:12,Yes,TikTok,23,Male,Student,0,Urban/City,Smartphone,Wifi,3,3,3,3,3,2,2,3,4,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 15:14,Yes,Instagram,21,Male,Student,0,Rural/Countryside,Smartphone,Wifi,1,3,2,1,5,5,3,5,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/3/2023 15:16,Yes,TikTok,29,Male,Employee,3000,Rural/Countryside,Smartphone,Wifi,5,5,5,5,4,3,1,1,2,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 15:18,Yes,TikTok,23,Female,Student,0,Urban/City,Smartphone,Wifi,5,5,5,5,5,5,0,5,2,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 15:19,Yes,Twitter,32,Male,Self-Employed,12000,Urban/City,Smartphone,Wifi,5,5,3,1,5,5,1,5,3,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/3/2023 15:22,Yes,Instagram,22,Male,Student,0,Urban/City,Smartphone,Wifi,5,5,5,5,5,5,5,5,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/3/2023 15:23,Yes,TikTok,21,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,3,2,3,2,3,2,3,2,3,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/3/2023 15:26,Yes,Twitter,19,Female,Student,0,Urban/City,Smartphone,Wifi,5,5,1,1,4,4,0,0,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 15:27,Yes,TikTok,12,Male,Student,0,Urban/City,Tablet,Wifi,3,3,3,4,3,3,3,3,1,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 15:28,Yes,Instagram,26,Male,Employee,2400,Urban/City,Smartphone,Cellular Data,4,1,2,3,4,3,1,1,3,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 15:29,Yes,TikTok,21,Male,Employee,1500,Rural/Countryside,Smartphone,Cellular Data,5,5,3,3,3,4,0,5,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 15:30,Yes,Twitter,23,Female,Student,0,Urban/City,Smartphone,Wifi,5,5,0,0,5,5,1,2,1,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/3/2023 15:37,Yes,TikTok,27,Male,Employee,3200,Urban/City,Smartphone,Cellular Data,5,5,5,5,5,5,5,5,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 15:39,Yes,TikTok,23,Female,Student,0,Rural/Countryside,Smartphone,Wifi,5,5,2,2,5,5,2,5,1,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 17:02,Yes,TikTok,23,Male,Student,0,Urban/City,Smartphone,Wifi,5,5,3,3,5,5,0,5,2,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/3/2023 17:03,Yes,Instagram,21,Female,Student,0,Rural/Countryside,Smartphone,Wifi,5,2,3,1,3,2,5,2,2,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/3/2023 17:04,Yes,TikTok,43,Male,Self-Employed,6000,Rural/Countryside,Smartphone,Cellular Data,3,3,0,0,3,3,0,0,0,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 17:05,Yes,Instagram,21,Female,Student,0,Rural/Countryside,Smartphone,Wifi,5,5,1,1,4,4,0,4,4,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/3/2023 17:06,Yes,TikTok,21,Female,Student,0,Rural/Countryside,Tablet,Wifi,5,5,2,2,4,4,0,2,2,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/3/2023 17:08,Yes,TikTok,22,Male,Student,0,Urban/City,Laptop,Cellular Data,5,2,0,0,1,1,0,0,0,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 17:09,Yes,Instagram,17,Female,Student,0,Urban/City,Smartphone,Wifi,5,5,3,3,5,5,1,3,0,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/3/2023 17:09,Yes,TikTok,18,Female,Student,0,Urban/City,Smartphone,Wifi,5,5,5,5,5,5,1,5,2,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 17:10,Yes,Instagram,21,Male,Student,0,Rural/Countryside,Smartphone,Wifi,2,3,2,3,2,3,2,3,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 17:15,Yes,Instagram,21,Male,Student,0,Rural/Countryside,Smartphone,Wifi,5,5,5,5,5,5,5,5,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 17:16,Yes,Instagram,24,Female,Student,0,Urban/City,Smartphone,Wifi,4,5,4,5,4,5,4,5,4,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 17:17,Yes,Twitter,17,Female,Student,0,Urban/City,Smartphone,Wifi,5,5,3,3,4,4,1,4,1,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/3/2023 17:18,Yes,Instagram,32,Female,Employee,3100,Rural/Countryside,Smartphone,Wifi,5,5,2,2,5,5,0,4,1,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 17:19,Yes,TikTok,12,Male,Student,0,Urban/City,Smartphone,Wifi,5,5,0,0,5,5,0,0,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 17:19,Yes,Instagram,21,Female,Unemployed,0,Urban/City,Smartphone,Cellular Data,3,3,1,1,3,3,0,0,3,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 17:20,Yes,Twitter,15,Female,Student,0,Urban/City,Tablet,Wifi,5,5,5,5,5,5,5,5,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 17:20,Yes,TikTok,31,Male,Student,3200,Urban/City,Smartphone,Cellular Data,3,5,1,1,4,4,1,4,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 17:21,Yes,Twitter,32,Female,Employee,2700,Urban/City,Smartphone,Cellular Data,5,5,5,5,5,5,5,5,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 17:22,Yes,TikTok,28,Female,Employee,1900,Urban/City,Smartphone,Wifi,4,3,4,2,4,4,3,4,1,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 17:22,Yes,TikTok,32,Female,Employee,2500,Urban/City,Smartphone,Cellular Data,5,5,5,5,5,5,5,5,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 17:23,Yes,Instagram,27,Female,Employee,2300,Rural/Countryside,Smartphone,Cellular Data,5,4,3,2,4,3,1,3,2,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 17:24,Yes,Instagram,21,Female,Student,0,Rural/Countryside,Smartphone,Wifi,4,4,4,4,4,4,4,4,4,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 17:24,Yes,Twitter,23,Male,Student,0,Rural/Countryside,Smartphone,Wifi,5,4,3,2,1,0,1,2,3,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/3/2023 17:25,Yes,TikTok,32,Male,Employee,2400,Rural/Countryside,Smartphone,Cellular Data,5,5,0,0,4,4,0,0,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/3/2023 17:25,Yes,TikTok,22,Male,Student,0,Rural/Countryside,Smartphone,Wifi,4,5,2,2,4,4,0,2,3,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/3/2023 17:26,Yes,Twitter,21,Female,Student,0,Urban/City,Smartphone,Cellular Data,4,4,5,4,4,5,4,5,4,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 17:26,Yes,TikTok,18,Male,Student,0,Urban/City,Smartphone,Cellular Data,3,4,3,4,3,4,3,4,3,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/3/2023 17:27,Yes,TikTok,23,Female,Student,0,Urban/City,Smartphone,Wifi,5,5,2,2,4,4,0,0,2,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 19:54,Yes,TikTok,23,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,5,4,5,4,5,4,5,4,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 20:01,Yes,TikTok,20,Female,Student,0,Urban/City,Smartphone,Wifi,5,4,5,4,5,4,5,4,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 20:03,Yes,TikTok,21,Female,Student,0,Rural/Countryside,Smartphone,Wifi,5,4,5,4,5,4,5,4,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 20:05,Yes,Twitter,23,Male,Student,0,Rural/Countryside,Smartphone,Wifi,5,4,3,4,5,4,3,4,5,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 20:12,Yes,TikTok,31,Male,Employee,3100,Urban/City,Smartphone,Wifi,5,4,3,2,3,4,5,4,3,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/3/2023 20:14,Yes,TikTok,24,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,3,4,4,1,1,1,1,2,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 20:14,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7/3/2023 20:14,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7/3/2023 20:14,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7/3/2023 20:15,Yes,TikTok,18,Female,Student,0,Rural/Countryside,Smartphone,Wifi,3,3,4,3,2,4,3,3,3,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/3/2023 20:17,Yes,TikTok,22,Female,Student,0,Urban/City,Smartphone,Wifi,5,5,0,0,5,5,0,0,4,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/3/2023 21:23,Yes,Instagram,22,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,5,5,5,5,5,5,5,4,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 21:25,Yes,Twitter,26,Male,Employee,2400,Rural/Countryside,Tablet,Wifi,4,4,4,3,3,4,4,4,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 21:25,Yes,Twitter,23,Female,Student,0,Urban/City,Smartphone,Cellular Data,4,4,5,5,3,3,5,5,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 21:27,Yes,TikTok,28,Male,Employee,3400,Rural/Countryside,Smartphone,Cellular Data,4,4,5,5,3,3,3,3,4,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/3/2023 21:28,Yes,Twitter,23,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,2,2,1,5,4,5,4,4,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 21:29,Yes,Twitter,30,Female,Employee,4500,Rural/Countryside,Tablet,Cellular Data,5,3,4,4,5,4,5,5,4,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 21:30,Yes,TikTok,28,Female,Self-Employed,2500,Urban/City,Laptop,Wifi,4,3,2,4,4,3,4,5,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 21:31,Yes,TikTok,26,Female,Self-Employed,1500,Rural/Countryside,Smartphone,Cellular Data,5,4,5,5,3,4,3,2,3,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/3/2023 21:31,Yes,TikTok,20,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,3,2,4,4,4,5,4,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/3/2023 23:52,Yes,Instagram,22,Male,Student,0,Urban/City,Smartphone,Wifi,4,5,2,3,5,5,0,1,2,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/3/2023 23:53,Yes,TikTok,21,Female,Student,0,Rural/Countryside,Laptop,Wifi,4,3,4,3,4,3,4,3,4,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 23:54,Yes,TikTok,23,Male,Student,0,Urban/City,Tablet,Cellular Data,4,3,4,2,4,3,5,2,4,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/3/2023 23:57,Yes,Twitter,22,Male,Unemployed,0,Rural/Countryside,Laptop,Wifi,3,4,2,2,4,4,1,1,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/3/2023 23:59,Yes,Instagram,24,Male,Self-Employed,1000,Urban/City,Laptop,Wifi,4,3,4,2,5,4,2,1,3,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 0:00,Yes,TikTok,22,Male,Student,0,Urban/City,Smartphone,Cellular Data,4,3,4,3,4,3,4,3,4,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 0:01,Yes,Twitter,21,Female,Self-Employed,1000,Rural/Countryside,Tablet,Cellular Data,4,5,4,3,4,5,2,5,2,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 0:01,Yes,TikTok,23,Male,Student,0,Rural/Countryside,Smartphone,Wifi,4,5,3,3,5,5,2,2,2,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 0:03,Yes,Twitter,24,Male,Unemployed,0,Urban/City,Smartphone,Cellular Data,2,3,1,1,4,4,1,1,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 0:04,Yes,Instagram,24,Female,Employee,3500,Urban/City,Smartphone,Wifi,4,5,2,2,4,4,1,3,2,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 0:05,Yes,TikTok,24,Female,Employee,3000,Urban/City,Laptop,Wifi,4,3,4,3,5,3,4,3,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 0:05,Yes,Twitter,24,Female,Employee,2500,Urban/City,Tablet,Wifi,4,5,3,4,5,3,4,5,3,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 0:08,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7/4/2023 0:08,Yes,Twitter,20,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,3,4,3,4,3,4,3,4,3,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 0:09,Yes,TikTok,21,Female,Employee,1500,Rural/Countryside,Laptop,Cellular Data,4,3,4,3,5,5,5,3,3,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 0:27,Yes,Instagram,26,Male,Employee,3000,Urban/City,Tablet,Wifi,4,5,3,4,5,3,4,5,4,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 0:28,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7/4/2023 0:28,Yes,Instagram,22,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,5,4,5,3,4,3,0,5,1,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 0:29,Yes,TikTok,22,Male,Student,0,Urban/City,Laptop,Wifi,4,3,5,4,4,3,5,3,4,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 0:30,Yes,Twitter,23,Male,Self-Employed,1050,Rural/Countryside,Laptop,Wifi,4,3,5,4,5,3,4,3,5,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 0:30,Yes,Twitter,22,Male,Unemployed,0,Urban/City,Tablet,Cellular Data,4,3,5,4,4,3,3,5,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 0:31,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7/4/2023 0:31,Yes,Instagram,22,Male,Student,0,Urban/City,Smartphone,Wifi,4,3,5,3,3,4,4,5,0,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 0:32,Yes,TikTok,23,Male,Unemployed,0,Rural/Countryside,Laptop,Wifi,4,3,3,4,4,5,5,4,2,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 0:33,Yes,Twitter,22,Male,Student,0,Rural/Countryside,Tablet,Cellular Data,4,4,3,3,4,4,2,2,1,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 0:51,Yes,Instagram,25,Male,Student,0,Urban/City,Smartphone,Cellular Data,5,4,5,4,5,4,5,4,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 0:59,Yes,TikTok,34,Female,Employee,2300,Rural/Countryside,Smartphone,Cellular Data,5,4,3,2,1,0,1,2,3,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 1:01,Yes,Instagram,32,Female,Self-Employed,4000,Urban/City,Smartphone,Wifi,5,5,5,5,5,5,5,5,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 1:05,Yes,TikTok,21,Female,Student,0,Urban/City,Smartphone,Wifi,5,5,4,4,3,3,2,2,1,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 1:06,Yes,Twitter,23,Male,Employee,1800,Urban/City,Smartphone,Wifi,3,5,3,3,5,5,1,1,4,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 1:08,Yes,Instagram,21,Female,Student,0,Urban/City,Smartphone,Cellular Data,4,5,4,5,4,5,0,4,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 1:12,Yes,TikTok,29,Male,Employee,2400,Urban/City,Smartphone,Cellular Data,5,3,1,1,3,3,0,2,4,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 1:22,Yes,Instagram,22,Male,Student,0,Urban/City,Smartphone,Cellular Data,5,5,5,5,5,5,5,5,5,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 1:22,Yes,Instagram,23,Male,Student,0,Rural/Countryside,Tablet,Wifi,5,4,5,4,3,4,4,4,4,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 1:22,Yes,Instagram,35,Female,Employee,4000,Rural/Countryside,Smartphone,Wifi,5,3,5,3,5,3,5,4,4,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 1:22,Yes,TikTok,37,Female,Self-Employed,6000,Rural/Countryside,Smartphone,Wifi,5,2,4,3,4,1,4,1,1,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 1:22,Yes,Instagram,23,Female,Self-Employed,2000,Urban/City,Smartphone,Cellular Data,2,3,3,3,4,3,3,4,4,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 1:22,Yes,Twitter,45,Female,Unemployed,0,Urban/City,Smartphone,Cellular Data,5,4,4,4,4,2,3,3,4,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 1:23,Yes,Instagram,21,Male,Student,0,Urban/City,Tablet,Wifi,4,2,4,3,4,3,5,4,4,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 1:23,Yes,TikTok,19,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,5,3,3,4,4,3,4,3,4,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 1:23,Yes,TikTok,50,Male,Employee,5500,Rural/Countryside,Tablet,Wifi,5,4,4,3,3,3,3,3,4,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 1:23,Yes,TikTok,22,Male,Student,0,Urban/City,Tablet,Cellular Data,5,4,3,4,2,4,3,4,3,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 1:28,Yes,TikTok,32,Male,Self-Employed,5700,Urban/City,Smartphone,Wifi,5,4,3,4,3,4,5,4,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 1:28,Yes,Instagram,24,Female,Student,0,Urban/City,Smartphone,Cellular Data,5,3,4,3,4,3,4,4,3,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 1:28,Yes,Twitter,28,Female,Employee,3500,Urban/City,Laptop,Wifi,5,4,2,3,2,3,4,4,4,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 1:28,Yes,TikTok,24,Male,Student,0,Urban/City,Laptop,Wifi,5,3,4,5,4,4,3,4,2,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 1:28,Yes,Instagram,23,Male,Student,0,Rural/Countryside,Laptop,Cellular Data,4,2,4,1,4,3,3,3,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 1:28,Yes,Instagram,48,Male,Self-Employed,3900,Urban/City,Laptop,Cellular Data,5,4,1,2,5,5,5,2,4,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 1:28,Yes,Instagram,43,Female,Self-Employed,5200,Urban/City,Smartphone,Cellular Data,5,5,1,1,5,5,5,5,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 1:28,Yes,Twitter,23,Male,Student,0,Urban/City,Tablet,Wifi,3,3,3,3,3,3,3,3,3,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 1:28,Yes,TikTok,20,Male,Student,0,Urban/City,Smartphone,Cellular Data,1,5,2,1,2,2,1,1,5,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 1:28,Yes,Instagram,18,Female,Student,0,Urban/City,Tablet,Wifi,5,5,3,4,5,5,3,5,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 1:34,Yes,TikTok,21,Male,Student,0,Urban/City,Smartphone,Cellular Data,5,5,3,3,5,5,5,5,5,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 1:34,Yes,TikTok,21,Female,Student,0,Rural/Countryside,Tablet,Wifi,5,4,4,4,4,3,3,3,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 1:34,Yes,TikTok,22,Female,Student,0,Rural/Countryside,Laptop,Cellular Data,5,4,4,4,3,3,4,2,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 1:34,Yes,TikTok,23,Female,Student,0,Urban/City,Smartphone,Cellular Data,5,4,2,1,4,5,5,5,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 1:34,Yes,TikTok,24,Male,Employee,2000,Urban/City,Smartphone,Cellular Data,3,3,3,3,3,4,4,4,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 1:34,Yes,TikTok,24,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,4,4,3,3,3,5,5,5,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 1:34,Yes,TikTok,21,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,1,3,0,0,1,1,1,1,2,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 1:35,Yes,TikTok,40,Male,Employee,5200,Urban/City,Laptop,Cellular Data,4,4,4,4,4,4,4,5,5,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 1:35,Yes,Twitter,30,Male,Self-Employed,4100,Urban/City,Laptop,Cellular Data,3,4,1,1,4,4,2,2,3,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 1:35,Yes,TikTok,55,Female,Self-Employed,3500,Rural/Countryside,Laptop,Cellular Data,5,1,4,3,4,2,4,2,4,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 1:40,Yes,TikTok,22,Male,Student,0,Urban/City,Laptop,Wifi,5,4,1,1,3,3,4,4,4,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 1:40,Yes,TikTok,24,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,5,5,4,4,3,4,5,5,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 1:40,Yes,TikTok,20,Male,Student,0,Urban/City,Laptop,Cellular Data,4,4,4,4,5,5,5,5,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 1:40,Yes,TikTok,21,Male,Student,0,Rural/Countryside,Tablet,Cellular Data,2,2,2,3,3,3,3,2,5,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 1:40,Yes,Instagram,29,Male,Employee,4000,Rural/Countryside,Smartphone,Wifi,5,4,4,3,2,4,3,4,2,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 1:40,Yes,TikTok,18,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,3,4,2,4,3,4,3,4,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 1:40,Yes,Instagram,19,Male,Student,0,Urban/City,Tablet,Cellular Data,5,4,3,4,3,4,3,4,4,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 1:40,Yes,TikTok,19,Male,Employee,1800,Rural/Countryside,Smartphone,Cellular Data,5,3,4,4,3,4,5,5,5,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 1:40,Yes,Twitter,21,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,4,4,4,4,4,3,5,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 1:40,Yes,TikTok,23,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,2,2,0,0,1,1,1,0,2,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 1:46,Yes,Twitter,21,Male,Student,0,Urban/City,Smartphone,Wifi,5,5,5,5,5,5,5,5,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 1:46,Yes,TikTok,21,Female,Student,0,Urban/City,Smartphone,Wifi,4,4,4,4,3,3,3,3,3,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 1:46,Yes,TikTok,22,Male,Student,0,Urban/City,Smartphone,Cellular Data,5,5,1,1,2,2,2,3,3,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 1:46,Yes,Instagram,22,Female,Student,0,Urban/City,Laptop,Wifi,4,3,4,2,4,1,1,5,5,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 1:47,Yes,Instagram,23,Male,Student,0,Urban/City,Tablet,Wifi,5,5,3,4,3,4,3,4,4,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 1:47,Yes,TikTok,23,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,5,4,3,4,3,4,3,4,3,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 1:47,Yes,TikTok,24,Male,Student,0,Rural/Countryside,Laptop,Wifi,5,3,4,4,2,4,2,4,2,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 1:47,Yes,Instagram,24,Female,Student,0,Rural/Countryside,Smartphone,Wifi,5,4,2,4,2,4,2,4,3,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 1:47,Yes,TikTok,25,Male,Student,0,Urban/City,Smartphone,Cellular Data,4,4,3,4,3,4,3,4,3,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 1:47,Yes,Twitter,25,Female,Student,0,Urban/City,Laptop,Wifi,3,4,1,1,4,4,4,2,2,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 1:52,Yes,Twitter,39,Female,Employee,4700,Urban/City,Smartphone,Wifi,3,3,1,1,4,4,4,3,3,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 1:52,Yes,Instagram,34,Male,Employee,3400,Rural/Countryside,Smartphone,Cellular Data,2,2,1,0,2,2,3,3,3,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 1:52,Yes,TikTok,30,Female,Self-Employed,4600,Rural/Countryside,Laptop,Wifi,5,5,1,1,2,2,3,3,3,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 1:52,Yes,TikTok,43,Male,Employee,4500,Urban/City,Laptop,Cellular Data,3,3,1,1,4,4,4,4,3,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 1:52,Yes,TikTok,35,Female,Self-Employed,6000,Urban/City,Smartphone,Wifi,3,3,2,1,5,5,4,4,3,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 1:52,Yes,Twitter,38,Male,Employee,5000,Urban/City,Smartphone,Wifi,4,3,3,2,2,5,5,3,4,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 1:53,Yes,TikTok,56,Male,Unemployed,0,Rural/Countryside,Laptop,Cellular Data,3,2,0,0,4,4,1,3,5,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 1:53,Yes,TikTok,32,Female,Employee,3500,Urban/City,Smartphone,Cellular Data,3,3,0,2,5,5,5,4,4,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 1:53,Yes,TikTok,40,Male,Employee,3300,Urban/City,Laptop,Cellular Data,5,4,4,4,5,4,5,4,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 1:53,Yes,Twitter,29,Male,Employee,3800,Urban/City,Smartphone,Cellular Data,3,4,4,4,3,4,4,4,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 2:37,Yes,TikTok,20,Male,Student,0,Rural/Countryside,Smartphone,Wifi,3,3,4,4,2,3,4,3,4,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:37,Yes,Instagram,22,Male,Student,0,Rural/Countryside,Laptop,Wifi,3,4,4,4,4,4,4,4,3,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 2:38,Yes,Twitter,22,Male,Student,0,Urban/City,Tablet,Wifi,4,4,3,3,3,4,2,3,1,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 2:38,Yes,Instagram,22,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,5,5,3,3,3,1,3,1,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 2:39,Yes,Twitter,22,Male,Student,0,Urban/City,Smartphone,Wifi,4,4,3,3,4,4,1,1,1,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:39,Yes,Twitter,22,Male,Student,0,Rural/Countryside,Laptop,Wifi,4,4,2,2,3,3,1,1,1,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 2:40,Yes,Instagram,22,Male,Employee,2100,Rural/Countryside,Smartphone,Cellular Data,4,4,3,2,3,3,1,1,1,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:40,Yes,Instagram,22,Male,Student,0,Urban/City,Laptop,Wifi,4,4,2,2,2,4,1,3,1,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:41,Yes,Instagram,22,Male,Student,0,Urban/City,Tablet,Wifi,4,5,2,2,3,2,2,3,1,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 2:41,Yes,TikTok,22,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,5,5,3,3,3,3,1,1,1,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 2:42,Yes,Twitter,22,Male,Student,0,Urban/City,Smartphone,Wifi,5,5,2,2,3,3,1,3,1,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 2:42,Yes,TikTok,22,Male,Student,0,Rural/Countryside,Laptop,Cellular Data,5,5,4,3,3,3,3,1,2,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 2:43,Yes,Instagram,23,Male,Student,0,Rural/Countryside,Smartphone,Wifi,5,5,3,3,2,2,2,2,1,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 2:43,Yes,Instagram,22,Male,Student,0,Rural/Countryside,Laptop,Wifi,3,4,4,3,2,2,1,1,1,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 2:44,Yes,Twitter,25,Male,Self-Employed,2500,Urban/City,Laptop,Wifi,3,3,1,1,4,4,1,4,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:44,Yes,TikTok,26,Male,Employee,3300,Urban/City,Laptop,Wifi,4,4,3,4,4,3,4,3,4,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 2:44,Yes,Twitter,32,Female,Employee,5600,Urban/City,Tablet,Wifi,2,2,1,0,2,2,1,1,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:44,Yes,Instagram,22,Male,Student,0,Rural/Countryside,Tablet,Wifi,5,5,4,3,2,2,2,3,1,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:44,Yes,TikTok,27,Female,Employee,4900,Urban/City,Laptop,Wifi,3,3,1,1,4,4,3,3,3,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:44,Yes,TikTok,41,Female,Employee,7500,Urban/City,Laptop,Wifi,2,2,1,0,1,2,4,4,4,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 2:44,Yes,Twitter,35,Male,Employee,4400,Urban/City,Laptop,Wifi,4,4,2,2,3,4,4,5,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 2:44,Yes,TikTok,25,Female,Self-Employed,4000,Urban/City,Smartphone,Cellular Data,5,4,4,3,4,3,4,5,5,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 2:44,Yes,Instagram,42,Female,Self-Employed,6600,Rural/Countryside,Tablet,Cellular Data,3,1,1,1,4,4,2,4,3,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:44,Yes,Twitter,32,Female,Employee,4388,Urban/City,Smartphone,Wifi,4,4,3,3,5,5,5,5,5,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 2:44,Yes,TikTok,43,Female,Employee,4800,Urban/City,Laptop,Wifi,2,2,0,0,1,1,0,0,1,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 2:44,Yes,Twitter,54,Female,Unemployed,0,Urban/City,Tablet,Wifi,5,5,5,1,5,5,2,3,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:44,Yes,TikTok,23,Male,Student,0,Urban/City,Smartphone,Cellular Data,3,3,0,1,1,2,2,2,5,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 2:44,Yes,Twitter,26,Female,Employee,3800,Urban/City,Laptop,Wifi,4,4,0,1,4,4,3,4,4,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 2:44,Yes,TikTok,22,Male,Student,0,Urban/City,Tablet,Cellular Data,5,5,5,4,4,4,2,4,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 2:44,Yes,Instagram,32,Female,Employee,4350,Urban/City,Tablet,Cellular Data,5,4,4,2,3,5,3,4,5,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 2:44,Yes,Instagram,20,Female,Student,0,Rural/Countryside,Smartphone,Wifi,5,3,4,4,3,4,4,4,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:44,Yes,TikTok,21,Male,Student,0,Urban/City,Laptop,Cellular Data,5,5,1,1,4,4,2,3,3,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 2:44,Yes,Instagram,24,Female,Student,0,Rural/Countryside,Smartphone,Wifi,1,3,1,1,2,2,2,2,1,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 2:44,Yes,TikTok,20,Female,Employee,0,Urban/City,Laptop,Cellular Data,5,5,4,4,5,5,4,3,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 2:44,Yes,TikTok,66,Male,Unemployed,0,Urban/City,Tablet,Wifi,5,3,4,1,4,3,1,4,4,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 2:44,Yes,Instagram,22,Male,Student,0,Urban/City,Laptop,Wifi,3,3,3,3,2,2,2,1,1,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 2:45,Yes,Instagram,20,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,3,3,2,2,2,2,1,1,1,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 2:45,Yes,TikTok,22,Male,Student,0,Rural/Countryside,Laptop,Wifi,4,4,3,4,4,4,5,4,3,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:45,Yes,Instagram,22,Male,Student,0,Urban/City,Smartphone,Wifi,5,5,4,4,5,4,4,4,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:46,Yes,Instagram,22,Male,Student,0,Rural/Countryside,Laptop,Wifi,4,4,4,3,3,3,2,3,3,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 2:46,Yes,Twitter,23,Male,Student,0,Urban/City,Smartphone,Wifi,4,4,3,3,3,3,4,2,2,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 2:47,Yes,Twitter,22,Male,Student,0,Urban/City,Laptop,Wifi,4,4,3,3,4,3,3,2,2,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:47,Yes,Instagram,22,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,3,2,3,2,2,1,1,1,1,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 2:48,Yes,Instagram,22,Female,Student,0,Urban/City,Laptop,Cellular Data,3,3,2,2,2,2,2,1,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:48,Yes,Twitter,22,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,3,4,4,3,4,3,3,3,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:49,Yes,TikTok,22,Male,Student,0,Rural/Countryside,Smartphone,Wifi,4,4,3,3,3,3,3,3,2,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 2:49,Yes,TikTok,22,Male,Student,0,Rural/Countryside,Smartphone,Wifi,4,4,3,3,3,3,2,2,1,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:50,Yes,TikTok,22,Male,Employee,0,Rural/Countryside,Laptop,Cellular Data,4,4,2,3,3,2,3,2,3,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 2:50,Yes,TikTok,22,Male,Student,0,Urban/City,Smartphone,Wifi,5,5,5,5,5,5,5,5,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 2:51,Yes,Instagram,22,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,3,3,4,3,3,3,2,2,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 2:51,Yes,TikTok,22,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,3,4,3,3,2,3,2,2,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 2:52,Yes,TikTok,22,Male,Student,0,Urban/City,Smartphone,Wifi,4,3,3,3,3,3,2,2,1,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:52,Yes,Instagram,22,Female,Student,0,Urban/City,Laptop,Wifi,4,4,4,3,4,3,4,4,3,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:53,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7/4/2023 2:53,Yes,Instagram,22,Female,Student,0,Urban/City,Smartphone,Wifi,5,4,5,4,4,3,4,3,4,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 2:54,Yes,Twitter,23,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,3,4,3,3,3,2,2,1,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:54,Yes,TikTok,26,Female,Self-Employed,3000,Urban/City,Smartphone,Wifi,4,4,3,3,3,2,3,2,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:55,Yes,TikTok,21,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,3,3,3,2,3,2,2,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:55,Yes,Instagram,20,Female,Student,0,Urban/City,Laptop,Wifi,4,3,4,3,3,2,1,3,2,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 2:56,Yes,TikTok,23,Female,Student,0,Urban/City,Tablet,Wifi,4,3,4,3,2,2,4,3,3,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:56,Yes,Twitter,23,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,3,4,3,3,3,3,3,3,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 2:57,Yes,TikTok,22,Female,Student,0,Urban/City,Tablet,Cellular Data,4,3,3,4,3,3,3,2,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:57,Yes,Twitter,25,Male,Self-Employed,5000,Urban/City,Smartphone,Wifi,4,3,3,4,3,4,3,3,2,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 2:58,Yes,Instagram,25,Female,Employee,3000,Urban/City,Smartphone,Wifi,4,3,3,4,3,2,2,2,3,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:58,Yes,Instagram,22,Female,Student,0,Rural/Countryside,Smartphone,Wifi,2,2,1,1,2,2,1,2,1,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 2:58,Yes,Twitter,48,Female,Unemployed,0,Urban/City,Smartphone,Cellular Data,3,4,1,1,3,3,3,2,5,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:58,Yes,Instagram,16,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,5,3,4,4,4,3,3,2,2,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:58,Yes,Twitter,19,Female,Student,0,Urban/City,Smartphone,Cellular Data,4,5,1,2,4,4,4,4,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 2:58,Yes,Instagram,22,Female,Student,0,Urban/City,Smartphone,Wifi,0,1,1,1,0,1,0,0,1,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 2:58,Yes,TikTok,26,Female,Employee,3200,Urban/City,Tablet,Wifi,5,3,4,4,2,4,2,4,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 2:59,Yes,Twitter,20,Male,Student,0,Urban/City,Smartphone,Cellular Data,3,3,1,0,4,4,1,2,4,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 2:59,Yes,Twitter,22,Male,Student,0,Rural/Countryside,Laptop,Wifi,3,3,3,2,2,3,2,2,3,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 2:59,Yes,TikTok,27,Male,Employee,4500,Urban/City,Laptop,Wifi,3,2,0,0,2,3,2,0,1,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 2:59,Yes,TikTok,22,Female,Employee,2111,Rural/Countryside,Smartphone,Cellular Data,3,2,3,2,2,1,1,1,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:00,Yes,Twitter,33,Female,Employee,2700,Urban/City,Smartphone,Cellular Data,2,4,0,2,2,4,4,4,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:00,Yes,TikTok,22,Male,Student,0,Rural/Countryside,Laptop,Wifi,3,2,3,3,2,2,0,0,0,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:00,Yes,Instagram,23,Male,Student,0,Urban/City,Laptop,Cellular Data,4,5,4,4,4,2,3,2,4,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:00,Yes,TikTok,22,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,2,1,1,0,0,1,0,1,0,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:01,Yes,Twitter,23,Male,Student,0,Urban/City,Laptop,Wifi,4,3,4,3,4,5,4,5,5,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 3:01,Yes,Instagram,22,Male,Student,0,Urban/City,Laptop,Cellular Data,3,2,3,2,3,3,2,3,1,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:01,Yes,Twitter,23,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,5,5,3,3,4,4,4,5,5,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:01,Yes,TikTok,23,Female,Student,0,Urban/City,Smartphone,Wifi,5,3,5,3,5,3,5,3,5,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:01,Yes,TikTok,23,Male,Self-Employed,2300,Urban/City,Laptop,Wifi,5,4,4,4,5,5,4,3,3,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:01,Yes,TikTok,23,Female,Self-Employed,2200,Urban/City,Laptop,Wifi,4,4,4,4,4,4,4,4,4,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:01,Yes,Twitter,22,Female,Self-Employed,0,Urban/City,Smartphone,Wifi,3,2,4,3,3,2,1,2,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:01,Yes,TikTok,23,Male,Student,0,Urban/City,Tablet,Cellular Data,5,4,4,3,4,4,4,3,4,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:02,Yes,Instagram,23,Female,Employee,0,Urban/City,Laptop,Cellular Data,5,2,4,2,4,4,4,4,4,more than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:02,Yes,Instagram,22,Male,Student,0,Urban/City,Smartphone,Wifi,4,2,4,2,4,0,2,0,0,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:02,Yes,Instagram,23,Female,Student,0,Urban/City,Tablet,Cellular Data,4,5,4,5,3,5,5,5,5,more than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 3:02,Yes,TikTok,23,Female,Student,0,Urban/City,Tablet,Cellular Data,3,3,1,1,2,3,1,1,3,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:02,Yes,TikTok,22,Female,Self-Employed,0,Urban/City,Tablet,Cellular Data,4,3,3,2,2,0,2,0,0,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:02,Yes,TikTok,23,Male,Student,0,Urban/City,Laptop,Wifi,5,4,4,4,5,4,3,5,5,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:03,Yes,Instagram,23,Male,Student,0,Urban/City,Smartphone,Cellular Data,4,3,4,5,4,3,4,4,4,more than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:03,Yes,Instagram,22,Female,Student,0,Rural/Countryside,Laptop,Wifi,3,1,3,2,3,2,1,1,0,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:04,Yes,Twitter,22,Male,Student,0,Rural/Countryside,Laptop,Wifi,4,3,3,4,3,4,3,3,3,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:04,Yes,Twitter,23,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,4,4,4,3,3,1,2,1,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:04,Yes,Twitter,22,Male,Student,0,Rural/Countryside,Tablet,Wifi,3,2,3,3,2,3,2,3,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:05,Yes,Twitter,23,Female,Student,0,Urban/City,Laptop,Cellular Data,3,3,2,3,1,3,2,2,3,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:05,Yes,Twitter,25,Female,Employee,3000,Urban/City,Smartphone,Cellular Data,3,3,2,0,1,1,1,0,0,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:06,Yes,Twitter,24,Female,Unemployed,2,Rural/Countryside,Smartphone,Cellular Data,3,3,2,3,2,3,3,2,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:06,Yes,Twitter,24,Female,Employee,2100,Rural/Countryside,Laptop,Wifi,2,1,1,0,1,2,2,1,1,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:07,Yes,Twitter,23,Female,Student,0,Urban/City,Smartphone,Wifi,3,3,1,2,1,1,1,0,0,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:07,Yes,Twitter,24,Female,Employee,4000,Rural/Countryside,Smartphone,Wifi,4,3,4,3,3,2,4,3,3,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:08,Yes,Twitter,23,Female,Student,0,Rural/Countryside,Tablet,Cellular Data,3,3,3,3,2,2,2,2,1,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 3:09,Yes,Instagram,26,Female,Employee,2500,Rural/Countryside,Smartphone,Cellular Data,2,1,1,1,0,0,1,0,0,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:09,Yes,Twitter,24,Female,Self-Employed,3000,Urban/City,Tablet,Wifi,4,4,3,2,0,0,2,1,1,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:10,Yes,Twitter,26,Female,Employee,4000,Urban/City,Tablet,Wifi,2,3,2,3,2,2,1,2,3,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:11,Yes,TikTok,23,Female,Student,0,Urban/City,Tablet,Cellular Data,4,3,3,1,0,0,1,1,0,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:11,Yes,Twitter,27,Male,Employee,5000,Urban/City,Smartphone,Wifi,3,2,3,3,2,3,2,1,0,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:12,Yes,Twitter,24,Female,Employee,3500,Urban/City,Laptop,Wifi,4,3,3,4,3,2,3,3,0,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:12,Yes,Instagram,24,Female,Employee,2700,Urban/City,Smartphone,Cellular Data,2,2,1,1,0,1,0,1,0,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 3:13,Yes,Twitter,25,Female,Employee,3100,Urban/City,Tablet,Wifi,3,2,2,3,2,2,1,1,1,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:14,Yes,Twitter,25,Female,Employee,3200,Urban/City,Smartphone,Wifi,5,4,3,2,2,2,2,1,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:14,Yes,Twitter,25,Female,Employee,3500,Urban/City,Smartphone,Cellular Data,3,2,1,0,1,1,0,0,0,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:15,Yes,Twitter,26,Male,Employee,6000,Urban/City,Tablet,Wifi,2,2,1,0,1,1,0,1,0,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:15,Yes,Twitter,26,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,2,2,2,1,1,1,0,1,0,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 3:16,Yes,TikTok,29,Male,Self-Employed,5000,Rural/Countryside,Smartphone,Cellular Data,0,1,1,1,1,0,1,0,1,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:17,Yes,Instagram,26,Female,Employee,2600,Urban/City,Smartphone,Cellular Data,1,2,2,1,2,1,1,0,0,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 3:17,Yes,Twitter,26,Female,Employee,3200,Urban/City,Smartphone,Wifi,3,2,3,4,2,2,1,1,2,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:18,Yes,Twitter,27,Female,Employee,4000,Urban/City,Smartphone,Cellular Data,4,4,5,4,5,4,5,4,4,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:18,Yes,Instagram,24,Male,Employee,2600,Rural/Countryside,Smartphone,Cellular Data,4,3,4,2,4,3,4,3,3,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:19,Yes,Twitter,23,Female,Student,0,Rural/Countryside,Laptop,Wifi,2,2,2,1,1,1,2,1,2,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:20,Yes,Twitter,25,Female,Employee,3400,Urban/City,Smartphone,Cellular Data,3,2,3,2,1,2,1,1,1,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 3:20,Yes,Twitter,24,Female,Employee,3200,Urban/City,Laptop,Wifi,1,1,1,0,1,0,1,0,1,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:21,Yes,Twitter,25,Female,Student,0,Urban/City,Laptop,Wifi,2,2,1,2,1,1,0,1,0,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:21,Yes,Twitter,22,Female,Student,0,Urban/City,Tablet,Wifi,2,2,1,1,1,0,1,0,1,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:22,Yes,Twitter,28,Female,Employee,2400,Urban/City,Smartphone,Cellular Data,4,4,3,4,3,4,5,3,4,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:22,Yes,Twitter,25,Female,Employee,3500,Urban/City,Smartphone,Cellular Data,5,4,4,4,5,5,4,5,3,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:23,Yes,Twitter,25,Female,Employee,3500,Urban/City,Laptop,Wifi,2,2,1,1,3,2,2,1,1,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:23,Yes,Twitter,23,Male,Student,0,Urban/City,Smartphone,Wifi,4,1,2,1,1,1,1,0,0,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 3:24,Yes,Twitter,27,Female,Employee,4100,Urban/City,Laptop,Wifi,2,2,2,1,2,1,0,1,0,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:25,Yes,Twitter,22,Male,Student,0,Urban/City,Smartphone,Wifi,3,2,2,2,1,1,0,0,0,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:26,Yes,Instagram,24,Male,Student,0,Rural/Countryside,Smartphone,Wifi,3,2,2,1,3,2,2,3,3,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:26,Yes,Twitter,24,Female,Employee,2100,Urban/City,Laptop,Wifi,5,4,5,4,4,4,4,5,5,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:27,Yes,Instagram,23,Female,Employee,2100,Rural/Countryside,Smartphone,Cellular Data,4,4,5,4,4,4,3,3,4,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:27,Yes,Twitter,23,Female,Employee,2400,Rural/Countryside,Laptop,Wifi,3,3,4,3,4,3,4,4,4,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:28,Yes,Twitter,26,Female,Employee,3500,Urban/City,Smartphone,Cellular Data,3,4,3,2,2,1,1,1,0,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:28,Yes,Twitter,26,Female,Employee,2300,Urban/City,Smartphone,Cellular Data,3,3,4,3,4,3,2,3,2,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:29,Yes,Twitter,26,Female,Employee,3600,Urban/City,Smartphone,Wifi,2,1,2,1,1,0,1,2,0,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:29,Yes,Twitter,24,Female,Student,0,Urban/City,Smartphone,Cellular Data,3,4,3,4,3,4,3,2,0,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:30,Yes,Twitter,27,Female,Employee,3600,Urban/City,Smartphone,Wifi,4,3,4,3,3,3,2,1,0,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:30,Yes,Twitter,25,Female,Employee,3500,Urban/City,Smartphone,Wifi,2,2,3,2,1,1,0,3,0,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 3:30,Yes,Twitter,25,Female,Self-Employed,3200,Urban/City,Smartphone,Wifi,3,2,3,4,3,2,2,1,1,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 3:31,Yes,Twitter,25,Male,Unemployed,0,Rural/Countryside,Smartphone,Cellular Data,3,3,4,3,4,3,2,3,4,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:31,Yes,Twitter,36,Male,Employee,4200,Rural/Countryside,Smartphone,Wifi,2,2,2,1,0,1,0,1,0,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:32,Yes,Twitter,25,Female,Employee,3500,Urban/City,Tablet,Wifi,3,4,4,3,4,3,4,3,4,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:32,Yes,Twitter,25,Female,Employee,4100,Urban/City,Smartphone,Wifi,2,1,1,2,1,2,1,1,0,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:33,Yes,Twitter,20,Male,Student,0,Rural/Countryside,Smartphone,Wifi,2,2,2,1,3,1,2,1,0,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:35,Yes,Twitter,22,Female,Student,0,Rural/Countryside,Smartphone,Wifi,3,3,3,3,2,3,3,2,3,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:37,Yes,Twitter,23,Female,Employee,2100,Rural/Countryside,Smartphone,Cellular Data,2,2,2,1,1,0,1,0,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:37,Yes,Twitter,21,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,5,4,4,5,4,5,4,4,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:39,Yes,Twitter,22,Female,Unemployed,0,Urban/City,Smartphone,Wifi,2,3,4,3,2,4,3,2,3,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 3:41,Yes,Twitter,23,Female,Employee,2100,Rural/Countryside,Smartphone,Wifi,2,1,2,1,1,1,1,2,1,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 3:41,Yes,Instagram,24,Male,Employee,2400,Urban/City,Smartphone,Wifi,3,4,3,3,3,3,2,4,3,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:42,Yes,Twitter,24,Male,Employee,3400,Urban/City,Smartphone,Wifi,3,3,2,3,3,4,3,2,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:42,Yes,Twitter,24,Male,Employee,2600,Rural/Countryside,Smartphone,Wifi,3,3,4,5,5,3,4,3,3,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:43,Yes,Instagram,24,Male,Employee,3400,Urban/City,Smartphone,Wifi,3,3,4,4,3,3,3,2,3,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:43,Yes,Twitter,24,Male,Employee,3400,Rural/Countryside,Smartphone,Wifi,2,3,4,4,3,2,3,3,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:44,Yes,Twitter,32,Male,Employee,4600,Urban/City,Smartphone,Wifi,3,3,2,2,3,2,3,2,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:44,Yes,Twitter,24,Male,Employee,3400,Urban/City,Smartphone,Wifi,4,4,3,4,5,4,4,3,4,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:45,Yes,Twitter,24,Female,Employee,2300,Rural/Countryside,Smartphone,Wifi,2,2,2,4,4,3,3,3,4,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:45,Yes,TikTok,27,Female,Unemployed,0,Urban/City,Laptop,Cellular Data,3,3,2,4,3,2,3,3,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:46,Yes,Twitter,45,Female,Employee,6000,Urban/City,Smartphone,Wifi,4,4,3,2,2,3,3,2,0,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:46,Yes,Twitter,46,Female,Employee,5300,Urban/City,Smartphone,Cellular Data,2,2,1,3,1,2,2,1,0,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:47,Yes,TikTok,35,Female,Self-Employed,5300,Urban/City,Smartphone,Wifi,2,1,2,1,0,2,0,1,0,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:47,Yes,Instagram,35,Male,Employee,4500,Urban/City,Smartphone,Wifi,4,3,2,2,4,2,4,2,1,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:48,Yes,Twitter,24,Female,Employee,2800,Rural/Countryside,Smartphone,Cellular Data,3,2,2,3,4,2,3,2,1,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 3:48,Yes,Instagram,21,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,1,2,3,4,2,1,3,4,2,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:49,Yes,Twitter,24,Male,Employee,3500,Urban/City,Smartphone,Wifi,3,4,4,4,4,5,4,4,4,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:49,Yes,Twitter,24,Male,Employee,6000,Rural/Countryside,Smartphone,Wifi,3,3,3,2,3,2,3,2,3,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:55,Yes,Twitter,24,Female,Employee,2100,Rural/Countryside,Smartphone,Wifi,3,3,2,3,2,1,2,3,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:56,Yes,Twitter,24,Male,Student,0,Rural/Countryside,Smartphone,Wifi,4,4,3,2,3,3,3,2,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:56,Yes,Twitter,35,Male,Employee,6200,Urban/City,Smartphone,Wifi,4,4,3,4,3,4,3,3,2,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:57,Yes,TikTok,24,Male,Student,0,Rural/Countryside,Tablet,Wifi,3,3,3,2,2,1,2,1,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:57,Yes,Twitter,34,Female,Self-Employed,5300,Urban/City,Smartphone,Cellular Data,3,2,3,2,1,2,1,2,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:58,Yes,Twitter,35,Male,Self-Employed,3500,Urban/City,Smartphone,Wifi,2,2,3,2,1,3,2,1,2,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 3:58,Yes,Instagram,34,Female,Employee,3400,Urban/City,Smartphone,Wifi,3,3,2,1,2,1,1,0,0,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 3:59,Yes,Instagram,37,Male,Employee,3570,Urban/City,Smartphone,Wifi,1,2,2,1,1,0,1,0,1,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 3:59,Yes,Instagram,34,Female,Employee,3600,Rural/Countryside,Smartphone,Cellular Data,2,2,2,3,3,1,3,2,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 4:00,Yes,Twitter,35,Male,Employee,6300,Rural/Countryside,Smartphone,Cellular Data,2,2,2,2,1,4,1,2,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 4:00,Yes,Twitter,24,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,3,2,2,2,1,1,2,1,1,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 4:01,Yes,Instagram,31,Male,Employee,4100,Rural/Countryside,Smartphone,Cellular Data,4,5,4,4,4,3,3,2,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 4:01,Yes,Twitter,39,Female,Employee,5400,Urban/City,Smartphone,Cellular Data,4,4,5,4,5,4,5,4,4,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 4:02,Yes,Twitter,28,Male,Employee,3400,Rural/Countryside,Smartphone,Cellular Data,1,0,2,1,1,2,1,2,1,more than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 4:02,Yes,Twitter,27,Female,Employee,3600,Urban/City,Smartphone,Cellular Data,4,2,2,3,2,1,2,1,1,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 4:02,Yes,Instagram,27,Female,Employee,4200,Urban/City,Smartphone,Cellular Data,2,2,1,2,1,2,1,2,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 4:03,Yes,Twitter,34,Female,Employee,3500,Urban/City,Smartphone,Cellular Data,3,3,4,3,4,3,3,3,3,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 4:04,Yes,Instagram,37,Male,Employee,3800,Rural/Countryside,Smartphone,Cellular Data,2,2,1,1,1,0,1,0,1,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 4:19,Yes,Twitter,24,Male,Unemployed,0,Urban/City,Smartphone,Cellular Data,4,2,3,2,3,2,2,3,2,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 4:20,Yes,Twitter,24,Female,Student,0,Urban/City,Laptop,Wifi,1,2,3,3,4,2,2,1,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 4:20,Yes,Twitter,21,Male,Unemployed,0,Rural/Countryside,Smartphone,Cellular Data,2,1,3,2,1,1,2,1,2,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 4:20,Yes,Instagram,21,Male,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,4,3,1,2,3,2,2,2,less than 5 minutes,6:00 a.m - 12:00 p.m
+7/4/2023 4:21,Yes,Twitter,34,Male,Employee,3400,Urban/City,Smartphone,Wifi,2,2,2,1,1,1,1,1,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 4:23,Yes,Twitter,21,Female,Student,0,Urban/City,Smartphone,Cellular Data,2,3,2,2,3,3,1,1,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 11:07,Yes,TikTok,22,Male,Student,0,Urban/City,Smartphone,Cellular Data,2,1,1,1,4,5,1,2,5,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 11:08,Yes,Twitter,26,Male,Employee,3500,Urban/City,Smartphone,Cellular Data,2,2,2,3,4,4,1,1,3,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 11:11,Yes,TikTok,25,Female,Employee,2700,Urban/City,Smartphone,Wifi,4,1,4,1,5,5,2,4,5,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 14:19,Yes,TikTok,34,Male,Employee,4200,Urban/City,Smartphone,Cellular Data,3,3,2,3,2,3,3,2,0,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 14:33,Yes,TikTok,20,Male,Student,0,Urban/City,Smartphone,Cellular Data,3,3,2,1,2,1,1,0,1,less than 5 minutes,6:00 p.m - 12:00 a.m
+7/4/2023 14:41,Yes,TikTok,25,Male,Employee,3400,Rural/Countryside,Smartphone,Cellular Data,3,2,3,2,3,1,3,1,1,less than 5 minutes,12:00 p.m - 6:00 p.m
+7/4/2023 14:46,Yes,TikTok,21,Female,Student,0,Rural/Countryside,Smartphone,Cellular Data,4,2,3,2,2,3,1,1,0,less than 5 minutes,12:00 a.m - 6:00 a.m
+7/4/2023 14:47,Yes,TikTok,23,Female,Student,0,Urban/City,Smartphone,Cellular Data,4,4,3,1,5,5,5,5,5,more than 5 minutes,6:00 p.m - 12:00 a.m
